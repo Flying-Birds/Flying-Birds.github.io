@@ -11,9 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Episode 1 Preview
+    title: Episode 1 Preview  15,May,2021  Online
     text: Educated: A Memoir
-    date_label: 15, May, 2021  Online
     button: Click to Join Online
     buttonlink: "#services"
 
