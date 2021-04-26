@@ -255,27 +255,27 @@ es: &DEFAULT_ES
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: equipo
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
+      - name: "Yazhuo Guan"
+        role: "Organizer"
+        image: assets/img/team/yazhuo.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
+          - url: https://github.com/YazhuoGuan
+            icon: fab fa-github
+          - url: https://www.facebook.com/profile.php?id=100004176317986
+            icon: fab fa-facebook-f
+          - url: https://www.linkedin.com/in/yazhuo-guan-a271a2112/
+            icon: fab fa-linkedin-in
+      - name: "Weiyu Zhang"
+        role: "Technical Leader"
+        image: assets/img/team/weiyu.jpg
+        social:
+          - url: https://github.com/Zhang-Nian
+            icon: fab fa-github
           - url: https://facebook.com
             icon: fab fa-facebook-f
-          - url: https://linkedin.com
+          - url: https://www.linkedin.com/in/weiyu-zhang-9a5aa2180/
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
+      - name: "Xuankui Chen"
         role: "Lead Developer"
         image: assets/img/team/500x500.jpg
         social:
