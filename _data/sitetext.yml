@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
+    title: Welcome to our Book Club!
     text: It's Nice To Meet You
     button: Tell Me More
     buttonlink: "#services"
@@ -99,7 +99,7 @@ en: &DEFAULT_EN
     people:
       - name: "Yazhuo Guan"
         role: "Organizer"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/yazhuo.jpg
         social:
           - url: https://github.com/YazhuoGuan
             icon: fab fa-github
@@ -107,17 +107,17 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://www.linkedin.com/in/yazhuo-guan-a271a2112/
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
+      - name: "Weiyu Zhang"
+        role: "Technical Leader"
+        image: assets/img/team/weiyu.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
+          - url: https://github.com/Zhang-Nian
+            icon: fab fa-github
           - url: https://facebook.com
             icon: fab fa-facebook-f
-          - url: https://linkedin.com
+          - url: https://www.linkedin.com/in/weiyu-zhang-9a5aa2180/
             icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
+      - name: "Xuankui Chen"
         role: "Lead Developer"
         image: assets/img/team/500x500.jpg
         social:
