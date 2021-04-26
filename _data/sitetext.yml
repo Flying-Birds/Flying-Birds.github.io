@@ -13,8 +13,8 @@ en: &DEFAULT_EN
   header:
     title: Episode 1 Preview
     text: Educated -- A Memoir
-    button: Click to Join Online
-    buttonlink: portfolio
+    button: Read more and join us
+    buttonlink: "#portfolio"
 
   services:
     title: "Monthly Recommendation"
