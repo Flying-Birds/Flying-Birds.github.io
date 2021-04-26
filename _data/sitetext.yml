@@ -11,9 +11,10 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Book Club!
-    text: It's Nice To Meet You
-    button: Tell Me More
+    title: Episode 1 Preview
+    text: Educated: A Memoir
+    text: 15, May, 2021  Online
+    button: Click to Join Online
     buttonlink: "#services"
 
   services:
