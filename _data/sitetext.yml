@@ -22,7 +22,7 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "原生家庭"
-        desc: "不健康的家庭体系，就像高速公路上的连环追尾，其恶劣影响会代代相传！这是一部振聋发聩的家庭心理疗伤经典之作。苏珊·福沃德博士通过工作中接触到的大量真实素材，分析了不健康的原生家庭是如何伤害子女，并特续影响子女成年后的生活的。"
+        desc: "不健康的家庭体系，就像高速公路上的连环追尾，其恶劣影响会代代相传！<br> 这是一部振聋发聩的家庭心理疗伤经典之作。苏珊·福沃德博士通过工作中接触到的大量真实素材，分析了不健康的原生家庭是如何伤害子女，并特续影响子女成年后的生活的。"
         image: assets/img/toxic_parents.jpg #find more at https://fontawesome.com/icons
       - title: "Responsive Design"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
@@ -32,8 +32,8 @@ en: &DEFAULT_EN
         icon: fab fa-markdown
 
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Reviews"
+    text: "Spontaneous Moments"
     section: portfolio
     closebutton: "Close Project"
 
