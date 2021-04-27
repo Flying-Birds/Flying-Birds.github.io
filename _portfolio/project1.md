@@ -11,7 +11,7 @@ caption:
 ---
 
  你当像鸟飞往你的山（Flee as a bird to your mountain）出自《圣经·诗篇》，这句话本身有双重解释，一种是“逃离”，一种是“找到新的信仰”。
-![avatar]("assets/img/portfolio/03-full.jpg")
+![avatar]("assets/img/portfolio/01-full.jpg")
 
 
 心有所归，志有所向，爱你所爱，行你所行，听从你心。
