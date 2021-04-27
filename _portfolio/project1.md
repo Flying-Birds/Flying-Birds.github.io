@@ -1,6 +1,6 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
+title: 你当像鸟飞往你的山
+subtitle: Flee as a bird to your mountain.
 image: assets/img/portfolio/01-full.jpg
 alt: Shirts on a hanger
 
@@ -9,10 +9,10 @@ caption:
   subtitle: 你当像鸟飞往你的山
   thumbnail: assets/img/portfolio/01-thumbnail.jpg
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+ 你当像鸟飞往你的山（Flee as a bird to your mountain）出自《圣经·诗篇》，这句话本身有双重解释，一种是“逃离”，一种是“找到新的信仰”。
+image: assets/img/portfolio/03-full.jpg
 
 {:.list-inline}
-- Date: January 2017
-- Client: Threads
+- Date: 27, April 2021
 - Category: Illustration
 
