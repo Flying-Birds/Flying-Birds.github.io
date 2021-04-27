@@ -5,7 +5,7 @@ image: assets/img/portfolio/01-full.jpg
 alt: Shirts on a hanger
 
 caption:
-  title: EP1 Educated:A MEMOIR
+  title: Episode 1
   subtitle: 你当像鸟飞往你的山
   thumbnail: assets/img/portfolio/01-thumbnail.jpg
 ---
