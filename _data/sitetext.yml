@@ -18,7 +18,7 @@ en: &DEFAULT_EN
 
   intro:
    title: A Room of One's Own
-   description: "It is much more important to be oneself than anything else."
+   text: "It is much more important to be oneself than anything else."
    image: assets/img/posters/1.jpg
    section: intro
    
