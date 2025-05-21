@@ -45,14 +45,20 @@
       <div class="col-md-4">
         <div class="service-image">
           <img class="mx-auto rounded-circle" src="{{ service.image }}" alt="">
-        </div>
-        <h4 class="service-heading">{{ service.title | markdownify }}</h4>
-        {% if service.desc %}<div class="text-muted">{{ service.desc | markdownify }}</div>{% endif %}
-    </div>  
-  {% endfor %}
-    </div>
-  
-  </div>
+          <h4>{{ service.name }}</h4>
+          <p class="text-muted">{{ service.desc }}</p>
+        </div>   
+      </div>  
+
 </section>
 {% endif %}
 <!-- End Services -->
+
+
+	  {% for person in site.data.sitetext.team.people %}
+		<div class="col-sm-4">
+		  <div class="team-member">
+			<img class="mx-auto rounded-circle" src="{{ person.image }}" alt="">
+			<h4>{{ person.name }}</h4>
+			<p class="text-muted">{{ person.role }}</p>
+			<ul class="list-inline social-buttons">
