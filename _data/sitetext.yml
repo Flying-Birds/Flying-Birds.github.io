@@ -179,6 +179,12 @@ ch: &DEFAULT_ES
     text: 一间属于自己的房间
     button: 查看更多
     buttonlink: "#Portafolio"
+    
+  intro:
+   title: A Room of One's Own
+   text: "It is much more important to be oneself than anything else."
+   image: assets/img/posters/1.jpg
+   section: intro
 
   services:
     title: "每月推荐"
