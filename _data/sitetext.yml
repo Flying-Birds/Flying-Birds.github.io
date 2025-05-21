@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Episode 1 Preview
+    title: Preview of Next Event
     text: A Room of One's Own
     button: Read more and join us
     buttonlink: "#intro"
@@ -19,22 +19,22 @@ en: &DEFAULT_EN
   intro:
    title: A Room of One's Own
    description: "It is much more important to be oneself than anything else."
-   image: "assets/img/posters/1.jpg"
+   image: assets/img/posters/1.jpg
    
   services:
     title: "Monthly Recommendation"
     text: "Selections for Extensive Reading"
     section: services
     list:
-      - title: "[原生家庭](https://book.douban.com/subject/30199434/)"
-        desc: "不健康的家庭体系，就像高速公路上的连环追尾，其恶劣影响会代代相传！<br> 这是一部振聋发聩的家庭心理疗伤经典之作。苏珊·福沃德博士通过工作中接触到的大量真实素材，分析了不健康的原生家庭是如何伤害子女，并特续影响子女成年后的生活的。"
-        image: assets/img/toxic_parents.jpg #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "[Mrs. Dalloway](https://book.douban.com/subject/35687757/)"
+        desc: "For most of history, Anonymous was a woman."
+        image: assets/img/ref/MrsDalloway.jpg
+      - title: "[To the Lighthouse](https://book.douban.com/subject/36062381/)"
+        desc: "And all the lives we ever lived and all the lives to be are full of trees and changing leaves."
+        image: assets/img/ref/TotheLighthouse.jpg
+      - title: "[The Vegetarian](https://book.douban.com/subject/35534519/)"
+        desc: "There's nothing wrong with keeping quiet, after all, hadn't women traditionally been expected to be demure and restrained?"
+        image: assets/img/ref/TheVegetarian.jpg
 
   portfolio:
     title: "Reviews"
