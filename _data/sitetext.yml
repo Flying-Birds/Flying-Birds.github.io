@@ -20,6 +20,7 @@ en: &DEFAULT_EN
    title: A Room of One's Own
    description: "It is much more important to be oneself than anything else."
    image: assets/img/posters/1.jpg
+   section: intro
    
   services:
     title: "Monthly Recommendation"
