@@ -14,12 +14,12 @@ en: &DEFAULT_EN
     title: Episode 1 Preview
     text: A Room of One's Own
     button: Read more and join us
-    buttonlink: "#portfolio"
+    buttonlink: "#intro"
 
   intro:
    title: A Room of One's Own
-   description: "We are dedicated to providing the best solutions for your needs."
-   image: "assets/images/1.jpg"
+   description: "It is much more important to be oneself than anything else."
+   image: "assets/img/posters/1.jpg"
    
   services:
     title: "Monthly Recommendation"
@@ -270,25 +270,25 @@ ch: &DEFAULT_ES
             icon: fab fa-facebook-f
           - url: https://www.linkedin.com/in/yazhuo-guan-a271a2112/
             icon: fab fa-linkedin-in
-      - name: "Weiyu Zhang"
+      - name: "xxx"
         role: "Technical Leader"
-        image: assets/img/team/weiyu.jpg
+        image: assets/img/team/1.jpg
         social:
-          - url: https://github.com/Zhang-Nian
+          - url: 
             icon: fab fa-github
-          - url: https://facebook.com
+          - url: 
             icon: fab fa-facebook-f
-          - url: https://www.linkedin.com/in/weiyu-zhang-9a5aa2180/
+          - url: 
             icon: fab fa-linkedin-in
-      - name: "Xuankui Chen"
+      - name: "xxx"
         role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/1.jpg
         social:
-          - url: https://twitter.com
+          - url: 
             icon: fab fa-twitter
-          - url: https://facebook.com
+          - url: 
             icon: fab fa-facebook-f
-          - url: https://linkedin.com
+          - url: 
             icon: fab fa-linkedin-in
 
   contact:
