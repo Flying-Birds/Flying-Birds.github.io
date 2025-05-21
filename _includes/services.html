@@ -44,7 +44,7 @@
   {% for service in site.data.sitetext.services.list %}
       <div class="col-md-4">
         <div class="service-image">
-          <img src="{{ service.image | default: 'assets/img/default.jpg' }}" alt="{{ service.title }}">
+          <img class="mx-auto rounded-circle" src="{{ service.image }}" alt="">
         </div>
         <h4 class="service-heading">{{ service.title | markdownify }}</h4>
         {% if service.desc %}<div class="text-muted">{{ service.desc | markdownify }}</div>{% endif %}
