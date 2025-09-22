@@ -1,7 +1,6 @@
 ---
 title: 一间只属于自己的房间
 subtitle: Flee as a bird to your mountain.
-image: assets/img/portfolio/01-full.jpg
 alt: Shirts on a hanger
 
 caption:

@@ -1,7 +1,6 @@
 ---
 title: 命运的求索
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/02-full.jpg
 alt: 
 
 caption:
@@ -11,7 +10,7 @@ caption:
 ---
 
 <div style="text-align: center;">
-  <img src="assets/img/portfolio/02-content-01.jpg" alt="在蓬蒿剧场看到我最喜欢的一句话" style="max-width: 50%; height: auto;">
+  <img src="assets/img/portfolio/02-content-01.jpg" alt="在蓬蒿剧场看到我最喜欢的一句话" style="max-width: 70%; height: auto;">
 </div>
 
 2025年4月21日， 教皇方济各逝世。当晚，我在小红书上刷到了很多网友求助的帖子。这便是我组织这个公益互助会的开始。我深知这一生无法企及方济各的精神高度，但却依旧渴望能以萤火微光，在有限的人生中承担起一份社会责任，为他人点亮一盏温暖的灯。
@@ -23,7 +22,7 @@ caption:
 很开心借活动契机线下见到许多新伙伴，也格外期待线上的朋友早日线下团聚。原本计划下午一点到三点的活动，安排一小时分享书里的内容，一小时聊聊近况。小何来之前还问我："是萬庭自己讲两个小时吗？"我说那怎么可能，他的PPT只有十二三页，一个小时差不多够了。而实际情况是，他足足讲了近五个小时，结束时已经过了六点半。萬庭选择分享的内容本身就极具吸引力，再配上他出众的口才，竟能让大家全神贯注坐满五个小时，实在令人钦佩。（不能再夸了，他怕是已经在天上飘着落下不来了）我很专心地听，很认真地记笔记，可结束回到家后，却发现满满两大页笔记里，竟总结不出任何可实操的步骤。当下便决定放过自己，把专业的事留给专业的人。我只零零散散的拼凑一些我的个人感悟。
 
 <div style="text-align: center;">
-  <img src="assets/img/portfolio/02-content-02.jpg" alt="命运的求索" style="max-width: 50%; height: auto;">
+  <img src="assets/img/portfolio/02-content-02.jpg" alt="命运的求索" style="max-width: 70%; height: auto;">
 </div>
 
 小学毕业时跟着父母一起去大连旅游，导游带我们去了座寺庙，算命和尚的一句 “你未来有很可能会出国留学” 的谶语，像颗种子落进心里。多年后握着那张 offer 时，种子骤然破土 —— 原来命运早有伏笔？那些在书桌前熬过的深夜，那些为了提升成绩付出的汗水，那些在迷茫中依然坚持的脚步，难道都只是命运剧本里无意义的注脚吗？这个疑问像根细藤，悄悄缠绕住往后的日子，让我在无数个岔路口忍不住琢磨：命运与努力，到底该如何安放？
@@ -37,7 +36,7 @@ caption:
 艰难时，那些被命运标好的 “可能”，更像一张模糊的藏宝图。它画不出具体路径，却能在迷雾里透出微光 —— 不是让你躺着等宝藏奔向你，而是告诉你 “往这个方向走，或许能找到些什么”。于是你踩着泥泞前行，摔了跤就揉着膝盖爬起，渴了就掬一捧山泉水，终于在某个清晨看到霞光漫过山顶时，才懂得藏宝图的真正意义：它从不是规定你必须走到哪里，而是给了你出发的勇气。过程中的努力，并非是为了对抗命运，而是在知晓命运可能的走向后，用自己的行动去赋予这段旅程更深刻的意义。
 
 <div style="text-align: center;">
-  <img src="assets/img/portfolio/02-content-03.jpg" alt="命途千万，愿你无悔一生。" style="max-width: 50%; height: auto;">
+  <img src="assets/img/portfolio/02-content-03.jpg" alt="命途千万，愿你无悔一生。" style="max-width: 70%; height: auto;">
 </div>
 
 萬庭的 PPT 翻到最后一页时，整个屏幕只躺着一行字，是他留给所有人的赠言：“命途千万，愿你无悔一生。”

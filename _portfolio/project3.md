@@ -1,17 +1,16 @@
 ---
 title: 亲密解忧局
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/03-thumbnail.png
 alt: 
 
 caption:
   title: Episode 3
   subtitle: 亲密解忧局
-  thumbnail: assets/img/portfolio/03-thumbnail.jpg
+  thumbnail: assets/img/portfolio/03-thumbnail.png
 ---
 
 <div style="text-align: center;">
-  <img src="assets/img/portfolio/03-content-01.jpg" alt="肉串汪" style="max-width: 50%; height: auto;">
+  <img src="assets/img/portfolio/03-content-01.jpg" alt="肉串汪" style="max-width: 70%; height: auto;">
 </div>
 
 爱情是什么？
