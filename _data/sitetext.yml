@@ -145,6 +145,26 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: 
             icon: fab fa-linkedin-in
+      - name: "xxx"
+        role: "Lead Developer"
+        image: assets/img/team/1.jpg
+        social:
+          - url: 
+            icon: fab fa-twitter
+          - url: 
+            icon: fab fa-facebook-f
+          - url: 
+            icon: fab fa-linkedin-in
+      - name: "xxx"
+        role: "Lead Developer"
+        image: assets/img/team/1.jpg
+        social:
+          - url: 
+            icon: fab fa-twitter
+          - url: 
+            icon: fab fa-facebook-f
+          - url: 
+            icon: fab fa-linkedin-in
 
   contact:
     title: "Contact Us"
@@ -305,6 +325,26 @@ ch: &DEFAULT_ES
         social:
           - url: 
             icon: fab fa-github
+          - url: 
+            icon: fab fa-facebook-f
+          - url: 
+            icon: fab fa-linkedin-in
+      - name: "xxx"
+        role: "Lead Developer"
+        image: assets/img/team/1.jpg
+        social:
+          - url: 
+            icon: fab fa-twitter
+          - url: 
+            icon: fab fa-facebook-f
+          - url: 
+            icon: fab fa-linkedin-in
+      - name: "xxx"
+        role: "Lead Developer"
+        image: assets/img/team/1.jpg
+        social:
+          - url: 
+            icon: fab fa-twitter
           - url: 
             icon: fab fa-facebook-f
           - url: 
