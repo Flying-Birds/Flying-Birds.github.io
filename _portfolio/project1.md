@@ -1,16 +1,13 @@
 ---
 title: 一间只属于自己的房间
-subtitle: Flee as a bird to your mountain.
-alt: Shirts on a hanger
+subtitle: .
+alt: 
 
 caption:
   title: Episode 1
   subtitle: 一间只属于自己的房间
   thumbnail: assets/img/portfolio/01-thumbnail.png
 ---
-
- 你当像鸟飞往你的山（Flee as a bird to your mountain）出自《圣经·诗篇》，这句话本身有双重解释，一种是“逃离”，一种是“找到新的信仰”。
-![Image text](https://github.com/Flying-Birds/Flying-Birds.github.io/tree/master/assets/img/portfolio/01-full.jpg)
 
 
 心有所归，志有所向，爱你所爱，行你所行，听从你心。

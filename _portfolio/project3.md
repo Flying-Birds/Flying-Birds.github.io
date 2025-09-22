@@ -1,6 +1,6 @@
 ---
 title: 亲密解忧局
-subtitle: Lorem ipsum dolor sit amet consectetur.
+subtitle: 一路上的包容、沟通、理解、扶持，让 “我” 变成 “我们”。
 alt: 
 
 caption:
@@ -10,7 +10,7 @@ caption:
 ---
 
 <div style="text-align: center;">
-  <img src="assets/img/portfolio/03-content-01.jpg" alt="肉串汪" style="max-width: 70%; height: auto;">
+  <img src="assets/img/portfolio/03-content-01.jpg" alt="肉串汪" style="max-width: 80%; height: auto;">
 </div>
 
 爱情是什么？
