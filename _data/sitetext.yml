@@ -21,7 +21,7 @@ en: &DEFAULT_EN
     title: "Toxic Parents"
     text: "Overcoming Their Hurtful Legacy and Reclaiming Your Life"
     section: intro 
-    image: assets/img/posters/episode_4.jpg
+    image: assets/img/posters/episode_4.png
     description: "不健康的家庭体系，就像高速公路上的连环追尾，其恶劣影响会代代相传！<br>这是一部振聋发聩的家庭心理疗伤经典之作。苏珊·福沃德博士通过工作中接触到的大量真实素材，分析了不健康的原生家庭是如何伤害子女，并特续影响子女成年后的生活的。<br>难能可贵的是，作者的主旨并不在于控诉这样的父母，而在于传授具体的对策，使那些受过或仍在承受父母伤害的人们获得勇气和力量，从与父母的负面关系模式中解脱，恢复自信和力量，得到自由和幸福。<br>这本书的作者苏珊·福沃德对我有特殊的影响。在北京大学学习时，一次在图书馆借到了一本书《情感敲诈》（Emotional Blackmail），这本书让我读得很过瘾，尤其是长期困扰自己的一些东西一瞬间就明白了，这种理解来得相当简单容易。那时我就想，为什么不这样写书呢？为什么非得将书写得晦涩难懂呢？<br>也许这是一个重要的起因，为什么我自己的书会写成我现在的风格。<br>——武志红"
 
    
@@ -236,8 +236,8 @@ ch: &DEFAULT_ES
     buttonlink: "#intro"
 
   intro:
-    title: "A Room of One's Own"
-    text: "It is much more important to be oneself than anything else."
+    title: "原生家庭"
+    text: "Overcoming Their Hurtful Legacy and Reclaiming Your Life"
     section: intro 
    #image: assets/img/posters/1.jpg
 
