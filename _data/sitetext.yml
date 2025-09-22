@@ -115,9 +115,9 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://www.linkedin.com/in/yazhuo-guan-a271a2112/
             icon: fab fa-linkedin-in
-      - name: "xxx"
-        role: "Technical Leader"
-        image: assets/img/team/1.jpg
+      - name: "Wanting Huang"
+        role: "Co-Organizer"
+        image: assets/img/team/wanting.jpg
         social:
           - url: 
             icon: fab fa-github
@@ -126,7 +126,17 @@ en: &DEFAULT_EN
           - url: 
             icon: fab fa-linkedin-in
       - name: "xxx"
-        role: "Lead Developer"
+        role: "Developer"
+        image: assets/img/team/500x500.jpg
+        social:
+          - url: 
+            icon: fab fa-twitter
+          - url: 
+            icon: fab fa-facebook-f
+          - url: 
+            icon: fab fa-linkedin-in
+      - name: "xxx"
+        role: "Developer"
         image: assets/img/team/500x500.jpg
         social:
           - url: 
@@ -177,8 +187,8 @@ en-AU:
 # -------
 ch: &DEFAULT_ES
   header:
-    title: 第一期活动预告
-    text: 一间属于自己的房间
+    title: 第四期活动预告
+    text: 原生家庭
     button: 查看更多
     buttonlink: "#Portafolio"
 
@@ -193,15 +203,15 @@ ch: &DEFAULT_ES
     text: "更多推荐阅读书目"
     section: services
     list:
-      - title: "Comercio Electrónico"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Diseño Responsivo"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Su descripción aquí, soporte completo de **Markdown**"
-        icon: fab fa-markdown
+      - title: "为何家会伤人(https://book.douban.com/subject/30359352/)"
+        desc: "孩子天然是乐于满足父母的，我们这个过于讲孝道的社会常常忽视这一点，而片面强调父母的伟大与正确，却忽视了孩子对父母的天然的爱，一样伟大。"
+        icon: fas fa-solid fa-book #find more at https://fontawesome.com/icons
+      - title: "你当像鸟飞往你的山(https://book.douban.com/subject/33440205/)"
+        desc: "无论你成为谁，无论你把自己变成了什么，那就是你本来的样子。它一直在你心中。不是在剑桥，而是在于你自已。你就是黄金。回到杨百翰大学，甚至回到你家乡的那座从地山，都不会改变你是谁。那可能会改变别人对你的看法，甚至也会改变你对自己的看法一即便是就金，在某些光线下也会显得晦暗， 但那只是错觉。金子一直是金子。"
+        icon: fa-solid fa-book
+      - title: "被讨厌的勇气(https://book.douban.com/subject/26369699/)"
+        desc: "人根本不可能一个人活着，只有在社会性的环境之下才能成为“个人”。因此，阿德勒心理学把作为个人的“自立”和在社会中的“和谐”作为重大目标。那么，如何才能实现这些目标呢？阿德勒说：“在这里必须要克服‘工作’‘交友’和‘爱’这三大课题。”"
+        icon: fa-solid fa-book
 
   portfolio:
     title: "Portafolio"
@@ -245,28 +255,28 @@ ch: &DEFAULT_ES
     text: "nuestra historia"
     section: nosotros
 
-  clients:
-    section: clientes
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+  # clients:
+  #   section: clientes
+  #   max-height: 100px
+  #   horizontal-scrolling: "" #"yes/no"
+  #   list:
+  #     - title: "envato"
+  #       url: https://github.com/raviriley/agency-jekyll-theme
+  #       logo: assets/img/clients/envato.jpg
+  #     - title: "designmodo"
+  #       url: https://github.com/raviriley/agency-jekyll-theme
+  #       logo: assets/img/clients/designmodo.jpg
+  #     - title: "themeforest"
+  #       url: https://github.com/raviriley/agency-jekyll-theme
+  #       logo: assets/img/clients/themeforest.jpg
+  #     - title: "Creative Market"
+  #       url: https://github.com/raviriley/agency-jekyll-theme
+  #       logo: assets/img/clients/creative-market.jpg
 
   team:
     title: "NUESTRO INCREÍBLE EQUIPO"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    text: "Meet the brilliant minds behind our success – a diverse and talented team united by innovation, dedication, and a shared vision for excellence."
+    # subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: equipo
     people:
       - name: "Yazhuo Guan"
