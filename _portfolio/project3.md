@@ -1,5 +1,5 @@
 ---
-title: Project Name
+title: 亲密解忧局
 subtitle: Lorem ipsum dolor sit amet consectetur.
 image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/03-full.jpg
 alt: 
@@ -9,7 +9,38 @@ caption:
   subtitle: Identity
   thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/03-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+爱情是什么？
+
+老侃分享了有一个很有意思的故事。一次，办公室几个年轻人聊起爱情，一个 50 岁左右的女师傅说：30年前，我看见我的老公，抱着收音机，穿着喇叭裤，戴个墨镜，脖子后面插着一把折扇，嘴上叼着一根烟，我当时觉得，他那个抽烟的姿势可真帅哎，真的很上头，很入迷。这就是他们爱情的开始。
+
+每个人的爱情，大概都有这样一个甜蜜的开始。那个时候，会窝在沙发上对着聊天记录傻乐；会因为一次不经意的对视而心跳加速；会在想到对方的时候觉得空气中都夹杂着丝丝的甜意。最初的心动，像是在暗夜里绽放的烟花，绚烂、热烈，照亮了我们平凡的生活。
+
+故事的后半段是，30年后，女师傅再看到她老公在家叼着烟，她就想拿刀”嘎“了他。
+
+当褪去最初的的激情，在日常的琐碎中，我们开始慢慢忘记对方最初的样子。开始有了不满，有了挑剔。我们会为了谁洗碗、谁倒垃圾而争论，会因为牙膏从中间挤还是尾部挤而互不相让。不满和挑剔，像细小的沙砾，悄悄藏进了爱情的鞋里。
+
+但正是这些磕磕绊绊，让我们学会了包容。
+
+我们逐渐开始明白，这个世界上没有完全相同的两个人。不同的家庭、不同的成长轨迹，造就了独一无二的彼此。他有他的习惯，我有我的坚持。我们不再要求对方改变，而是在咖啡和茶之间，学会点一壶热水；是在争吵之后，依然能为对方留一盏回家的灯。
+
+在一次次的争执与和解中，我们也学会了沟通与理解。
+
+我们可以放心地把心里的话，从 "憋着" 变成 "说出来"；把 "你为什么不理解我" 的质问，换成 "我现在感觉有点难过" 的倾诉。我们不再争论你对我错，而是两个人坐在同一边，共同面对问题这个 对手。
+
+一顿把话说开的晚饭，一次不看手机的散步，都能让许多误解消弭于无形。原来，下班回家后的沉默不是冷漠，只是疲惫；偶尔的粗心不是不在乎，而是被生活的压力压得喘不过气；那些唠叨不是挑剔，只是担心。我们学会在彼此的心门上，都留下了一把钥匙。
+
+而当生活的风雨来临时，我们也学会相互扶持。
+
+那是在夜深人静时，替你掖好被角的一双手；是在生病卧床时，递上的一杯热水；是在漫长的岁月里，一起度过的每一个难关。它不再是轰轰烈烈的表白，而是在你最需要的时候，那个坚定地站在你身边的身影。
+
+生活没有一帆风顺，爱情也没有。真正的爱情，不是永远保持初见时的心动，而是在经历风风雨雨后，依然选择牵着对方的手，一起坚定的走下去。
+
+它始于一场烟花的绚烂，却在日复一日的柴米油盐中，沉淀为细水长流的温暖。是一路上的包容、沟通、理解、扶持，将两颗独立的心，紧紧地连在了一起，让 “我” 变成 “我们”。
+
+所以如果问我，爱情是什么？我的答案是：
+它是初见时的心动，更是久处后的心安；
+是把我的锋芒，磨成我们的默契。  
+仅此而已。
 
 {:.list-inline}
 - Date: January 2017
