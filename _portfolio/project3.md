@@ -1,7 +1,7 @@
 ---
 title: 亲密解忧局
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/03-thumbnail.jpg
+image: assets/img/portfolio/03-thumbnail.png
 alt: 
 
 caption:
@@ -10,7 +10,9 @@ caption:
   thumbnail: assets/img/portfolio/03-thumbnail.jpg
 ---
 
-![肉串汪](assets/img/portfolio/03-content-01.jpg)
+<div style="text-align: center;">
+  <img src="assets/img/portfolio/03-content-01.jpg" alt="肉串汪" style="max-width: 50%; height: auto;">
+</div>
 
 爱情是什么？
 

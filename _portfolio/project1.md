@@ -1,13 +1,13 @@
 ---
-title: 一件只属于自己的房间
+title: 一间只属于自己的房间
 subtitle: Flee as a bird to your mountain.
 image: assets/img/portfolio/01-full.jpg
 alt: Shirts on a hanger
 
 caption:
   title: Episode 1
-  subtitle: 一件只属于自己的房间
-  thumbnail: assets/img/portfolio/01-thumbnail.jpg
+  subtitle: 一间只属于自己的房间
+  thumbnail: assets/img/portfolio/01-thumbnail.png
 ---
 
  你当像鸟飞往你的山（Flee as a bird to your mountain）出自《圣经·诗篇》，这句话本身有双重解释，一种是“逃离”，一种是“找到新的信仰”。
