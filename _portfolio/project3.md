@@ -1,7 +1,7 @@
 ---
 title: 亲密解忧局
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/03-full.jpg
+image: assets/img/posters/episode_3.png
 alt: 
 
 caption:
@@ -43,7 +43,7 @@ caption:
 仅此而已。
 
 {:.list-inline}
-- Date: January 2017
+- Date: 20 Sep 2025
 - Client: Finish
-- Category: Identity
+- Category: Offline Activities
 

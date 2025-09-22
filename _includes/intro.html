@@ -9,7 +9,12 @@
       </div>
     </div>
     <div class="row">
-      <div><img class="mx-auto rounded-circle" src="{{ site.data.sitetext[site.locale].intro.image }}" alt=""></div>
+      <div class="col-lg-6">
+        <img class="img-fluid rounded-circle" src="{{ site.data.sitetext[site.locale].intro.image }}" alt="">
+      </div>
+      <div class="col-lg-6">
+        <p>{{ site.data.sitetext[site.locale].intro.description | default: "Your description here." }}</p>
+      </div>
     </div>
   </div>
 </section>
@@ -23,7 +28,12 @@
       </div>
     </div>
     <div class="row">
-      <div><img class="mx-auto rounded-circle" src="{{ site.data.sitetext.intro.image }}" alt=""></div>
+      <div class="col-lg-6">
+        <img class="img-fluid rounded-circle" src="{{ site.data.sitetext.intro.image }}" alt="">
+      </div>
+      <div class="col-lg-6">
+        <p>{{ site.data.sitetext.intro.description | default: "Your description here." }}</p>
+      </div>
     </div>
   </div>
 </section>
