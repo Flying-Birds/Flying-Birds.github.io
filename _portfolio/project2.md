@@ -48,5 +48,5 @@ caption:
 {:.list-inline}
 - Date: 19 July 2025
 - Client: Explore
-- Category: Graphic Design
+- Category: Offline Activities
 
