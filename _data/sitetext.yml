@@ -34,10 +34,10 @@ en: &DEFAULT_EN
         icon: fas fa-solid fa-book #find more at https://fontawesome.com/icons
       - title: "[Educated](https://book.douban.com/subject/33440205/)"
         desc: "无论你成为谁，无论你把自己变成了什么，那就是你本来的样子。它一直在你心中。不是在剑桥，而是在于你自已。你就是黄金。回到杨百翰大学，甚至回到你家乡的那座从地山，都不会改变你是谁。那可能会改变别人对你的看法，甚至也会改变你对自己的看法一即便是就金，在某些光线下也会显得晦暗， 但那只是错觉。金子一直是金子。"
-        icon: fa-solid fa-book
+        icon: fas fa-solid fa-book
       - title: "[嫌われる勇気](https://book.douban.com/subject/26369699/)"
         desc: "人根本不可能一个人活着，只有在社会性的环境之下才能成为“个人”。因此，阿德勒心理学把作为个人的“自立”和在社会中的“和谐”作为重大目标。那么，如何才能实现这些目标呢？阿德勒说：“在这里必须要克服‘工作’‘交友’和‘爱’这三大课题。”"
-        icon: fa-solid fa-book
+        icon: fas fa-solid fa-book
 
   portfolio:
     title: "Reviews"
@@ -194,14 +194,14 @@ en: &DEFAULT_EN
         icon: "fab fa-github"
       - url: https://instagram.com
         icon: "fab fa-instagram"
-en-US:
-  <<: *DEFAULT_EN
-en-CA:
-  <<: *DEFAULT_EN
-en-GB:
-  <<: *DEFAULT_EN
-en-AU:
-  <<: *DEFAULT_EN
+# en-US:
+#   <<: *DEFAULT_EN
+# en-CA:
+#   <<: *DEFAULT_EN
+# en-GB:
+#   <<: *DEFAULT_EN
+# en-AU:
+#   <<: *DEFAULT_EN
 
 # Chinese
 # -------
@@ -228,10 +228,10 @@ ch: &DEFAULT_ES
         icon: fas fa-solid fa-book #find more at https://fontawesome.com/icons
       - title: "你当像鸟飞往你的山(https://book.douban.com/subject/33440205/)"
         desc: "无论你成为谁，无论你把自己变成了什么，那就是你本来的样子。它一直在你心中。不是在剑桥，而是在于你自已。你就是黄金。回到杨百翰大学，甚至回到你家乡的那座从地山，都不会改变你是谁。那可能会改变别人对你的看法，甚至也会改变你对自己的看法一即便是就金，在某些光线下也会显得晦暗， 但那只是错觉。金子一直是金子。"
-        icon: fa-solid fa-book
+        icon: fas fa-solid fa-book
       - title: "被讨厌的勇气(https://book.douban.com/subject/26369699/)"
         desc: "人根本不可能一个人活着，只有在社会性的环境之下才能成为“个人”。因此，阿德勒心理学把作为个人的“自立”和在社会中的“和谐”作为重大目标。那么，如何才能实现这些目标呢？阿德勒说：“在这里必须要克服‘工作’‘交友’和‘爱’这三大课题。”"
-        icon: fa-solid fa-book
+        icon: fas fa-solid fa-book
 
   portfolio:
     title: "Portafolio"
