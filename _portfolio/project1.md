@@ -1,12 +1,12 @@
 ---
-title: 你当像鸟飞往你的山
+title: 一件只属于自己的房间
 subtitle: Flee as a bird to your mountain.
 image: assets/img/portfolio/01-full.jpg
 alt: Shirts on a hanger
 
 caption:
   title: Episode 1
-  subtitle: 你当像鸟飞往你的山
+  subtitle: 一件只属于自己的房间
   thumbnail: assets/img/portfolio/01-thumbnail.jpg
 ---
 

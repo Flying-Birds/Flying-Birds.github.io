@@ -1,14 +1,17 @@
 ---
 title: 亲密解忧局
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/posters/episode_3.png
+image: assets/img/portfolio/03-thumbnail.jpg
 alt: 
 
 caption:
-  title: Episode 2
+  title: Episode 3
   subtitle: 亲密解忧局
-  thumbnail: assets/img/portfolio/01-thumbnail.jpg
+  thumbnail: assets/img/portfolio/03-thumbnail.jpg
 ---
+
+![肉串汪](assets/img/portfolio/03-content-01.jpg)
+
 爱情是什么？
 
 老侃分享了有一个很有意思的故事。一次，办公室几个年轻人聊起爱情，一个 50 岁左右的女师傅说：30年前，我看见我的老公，抱着收音机，穿着喇叭裤，戴个墨镜，脖子后面插着一把折扇，嘴上叼着一根烟，我当时觉得，他那个抽烟的姿势可真帅哎，真的很上头，很入迷。这就是他们爱情的开始。
