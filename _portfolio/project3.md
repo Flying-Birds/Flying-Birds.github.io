@@ -5,9 +5,9 @@ image: assets/img/posters/episode_3.png
 alt: 
 
 caption:
-  title: Finish
-  subtitle: Identity
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/03-thumbnail.jpg
+  title: Episode 2
+  subtitle: 亲密解忧局
+  thumbnail: assets/img/portfolio/01-thumbnail.jpg
 ---
 爱情是什么？
 
