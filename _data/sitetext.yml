@@ -12,13 +12,13 @@
 en: &DEFAULT_EN
   header:
     title: Preview of Next Event
-    text: A Room of One's Own
+    text: Toxic Parents
     button: Read more and join us
     buttonlink: "#intro"
 
 
   intro:
-    title: "A Room of One's Own"
+    title: "Toxic Parents"
     text: "It is much more important to be oneself than anything else."
     section: intro 
     image: assets/img/posters/1.jpg
@@ -29,15 +29,15 @@ en: &DEFAULT_EN
     text: "Selections for Extensive Reading"
     section: services
     list:
-      - title: "[Mrs. Dalloway](https://book.douban.com/subject/35687757/)"
-        desc: "For most of history, Anonymous was a woman."
-        image: assets/img/ref/MrsDalloway.jpg
-      - title: "[To the Lighthouse](https://book.douban.com/subject/36062381/)"
-        desc: "And all the lives we ever lived and all the lives to be are full of trees and changing leaves."
-        image: assets/img/ref/TotheLighthouse.jpg
-      - title: "[The Vegetarian](https://book.douban.com/subject/35534519/)"
-        desc: "There's nothing wrong with keeping quiet, after all, hadn't women traditionally been expected to be demure and restrained?"
-        image: assets/img/ref/TheVegetarian.jpg
+      - title: "[为何家会伤人](https://book.douban.com/subject/30359352/)"
+        desc: "孩子天然是乐于满足父母的，我们这个过于讲孝道的社会常常忽视这一点，而片面强调父母的伟大与正确，却忽视了孩子对父母的天然的爱，一样伟大。"
+        icon: fas fa-solid fa-book #find more at https://fontawesome.com/icons
+      - title: "[Educated](https://book.douban.com/subject/33440205/)"
+        desc: "无论你成为谁，无论你把自己变成了什么，那就是你本来的样子。它一直在你心中。不是在剑桥，而是在于你自已。你就是黄金。回到杨百翰大学，甚至回到你家乡的那座从地山，都不会改变你是谁。那可能会改变别人对你的看法，甚至也会改变你对自己的看法一即便是就金，在某些光线下也会显得晦暗， 但那只是错觉。金子一直是金子。"
+        icon: fa-solid fa-book
+      - title: "[嫌われる勇気](https://book.douban.com/subject/26369699/)"
+        desc: "人根本不可能一个人活着，只有在社会性的环境之下才能成为“个人”。因此，阿德勒心理学把作为个人的“自立”和在社会中的“和谐”作为重大目标。那么，如何才能实现这些目标呢？阿德勒说：“在这里必须要克服‘工作’‘交友’和‘爱’这三大课题。”"
+        icon: fa-solid fa-book
 
   portfolio:
     title: "Reviews"
@@ -81,23 +81,23 @@ en: &DEFAULT_EN
     text: "our story"
     section: about
 
-  clients:
-    section: clients
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+  # clients:
+  #   section: clients
+  #   max-height: 100px
+  #   horizontal-scrolling: "" #"yes/no"
+  #   list:
+  #     - title: "envato"
+  #       url: https://github.com/raviriley/agency-jekyll-theme
+  #       logo: assets/img/clients/envato.jpg
+  #     - title: "designmodo"
+  #       url: https://github.com/raviriley/agency-jekyll-theme
+  #       logo: assets/img/clients/designmodo.jpg
+  #     - title: "themeforest"
+  #       url: https://github.com/raviriley/agency-jekyll-theme
+  #       logo: assets/img/clients/themeforest.jpg
+  #     - title: "Creative Market"
+  #       url: https://github.com/raviriley/agency-jekyll-theme
+  #       logo: assets/img/clients/creative-market.jpg
 
   team:
     title: "OUR AMAZING TEAM"
@@ -288,6 +288,16 @@ ch: &DEFAULT_ES
           - url: https://www.facebook.com/profile.php?id=100004176317986
             icon: fab fa-facebook-f
           - url: https://www.linkedin.com/in/yazhuo-guan-a271a2112/
+            icon: fab fa-linkedin-in
+      - name: "Wanting Huang"
+        role: "Co-Organizer"
+        image: assets/img/team/wanting.jpg
+        social:
+          - url: 
+            icon: fab fa-github
+          - url: 
+            icon: fab fa-facebook-f
+          - url: 
             icon: fab fa-linkedin-in
       - name: "xxx"
         role: "Technical Leader"
