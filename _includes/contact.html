@@ -46,6 +46,8 @@
             </div>
             <div class="clearfix"></div>
             <div class="col-lg-12 text-center">
+              <!-- 添加错误信息显示元素 -->
+              <div id="errorMessage" class="text-danger mb-3" style="min-height: 24px;"></div>
               <div id="success"></div>
               <button id="sendMessageButton" class="btn btn-primary btn-xl text-uppercase"
                 type="submit">{{ site.data.sitetext[site.locale].contact.submit | default: 'Send Message' }}</button>
@@ -104,6 +106,8 @@
             </div>
             <div class="clearfix"></div>
             <div class="col-lg-12 text-center">
+              <!-- 添加错误信息显示元素 -->
+              <div id="errorMessage" class="text-danger mb-3" style="min-height: 24px;"></div>
               <div id="success"></div>
               <button id="sendMessageButton" class="btn btn-primary btn-xl text-uppercase"
                 type="submit">{{ site.data.sitetext[site.locale].contact.submit | default: '发送留言' }}</button>
@@ -117,50 +121,81 @@
 {% endif %}
 
 <script>
-    document.getElementById('contactForm').addEventListener('submit', async function(e) {
-        e.preventDefault();
-        const errorDiv = document.getElementById('errorMessage');
-        errorDiv.textContent = '';
+    // 确保DOM完全加载后执行
+    document.addEventListener('DOMContentLoaded', function() {
+        const contactForm = document.getElementById('contactForm');
         
-        try {
-            const data = {
-                name: document.getElementById('name').value,
-                email: document.getElementById('email').value,
-                message: document.getElementById('message').value
-            };
-
-            // 确保仓库路径正确（对于username.github.io仓库，通常仓库名就是username.github.io）
-            const repoOwner = 'Flying-Birds';
-            const repoName = 'Flying-Birds.github.io';
-            const apiUrl = `https://api.github.com/repos/${repoOwner}/${repoName}/dispatches`;
-
-            const response = await fetch(apiUrl, {
-                method: 'POST',
-                headers: {
-                    'Content-Type': 'application/json',
-                    'User-Agent': 'GitHub Pages Contact Form',
-                    'Accept': 'application/vnd.github.v3+json' // 明确指定GitHub API版本
-                },
-                body: JSON.stringify({
-                    event_type: 'proxy-contact-form',
-                    client_payload: data
-                }),
-                mode: 'cors' // 显式指定跨域模式
-            });
-
-            const responseText = await response.text();
-            
-            if (response.ok) {
-                alert('Message sent successfully!');
-                this.reset();
-            } else {
-                errorDiv.textContent = `发送失败: ${response.status} - ${responseText}`;
-                console.error('API响应状态:', response.status);
-                console.error('API响应内容:', responseText);
-            }
-        } catch (error) {
-            errorDiv.textContent = `错误: ${error.message}`;
-            console.error('请求异常:', error);
+        // 检查表单元素是否存在
+        if (!contactForm) {
+            console.error('Contact form element not found!');
+            return;
         }
+
+        contactForm.addEventListener('submit', async function(e) {
+            e.preventDefault();
+            
+            // 获取错误信息显示元素并检查
+            const errorDiv = document.getElementById('errorMessage');
+            if (!errorDiv) {
+                console.error('Error message element not found!');
+                alert('提交失败：缺少错误提示元素');
+                return;
+            }
+            
+            // 清空之前的错误信息
+            errorDiv.textContent = '';
+            
+            try {
+                // 收集表单数据（包括电话字段）
+                const data = {
+                    name: document.getElementById('name').value,
+                    email: document.getElementById('email').value,
+                    phone: document.getElementById('phone').value,
+                    message: document.getElementById('message').value
+                };
+
+                // GitHub仓库信息
+                const repoOwner = 'Flying-Birds';
+                const repoName = 'Flying-Birds.github.io';
+                const apiUrl = `https://api.github.com/repos/${repoOwner}/${repoName}/dispatches`;
+
+                // 发送请求到GitHub API
+                const response = await fetch(apiUrl, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                        'User-Agent': 'GitHub Pages Contact Form',
+                        'Accept': 'application/vnd.github.v3+json'
+                    },
+                    body: JSON.stringify({
+                        event_type: 'proxy-contact-form',
+                        client_payload: data
+                    }),
+                    mode: 'cors'
+                });
+
+                const responseText = await response.text();
+                
+                if (response.ok) {
+                    // 显示成功信息
+                    document.getElementById('success').textContent = '消息发送成功！';
+                    document.getElementById('success').className = 'text-success mb-3';
+                    // 重置表单
+                    this.reset();
+                    // 3秒后清除成功信息
+                    setTimeout(() => {
+                        document.getElementById('success').textContent = '';
+                    }, 3000);
+                } else {
+                    // 显示错误信息
+                    errorDiv.textContent = `发送失败: ${response.status} - ${responseText.substring(0, 100)}`;
+                    console.error('API响应状态:', response.status);
+                    console.error('API响应内容:', responseText);
+                }
+            } catch (error) {
+                errorDiv.textContent = `错误: ${error.message}`;
+                console.error('请求异常:', error);
+            }
+        });
     });
 </script>
