@@ -1,0 +1,26 @@
+name: Submit Discussion
+
+on:
+  repository_dispatch:
+    types: [submit-discussion]
+
+jobs:
+  submit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Create Discussion
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          curl -X POST \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer $GITHUB_TOKEN" \
+            https://api.github.com/repos/${{ github.repository }}/discussions \
+            -d '{
+              "title": "New Contact Form Submission",
+              "body": "**Name:** ${{ github.event.client_payload.name }}\n\n**Email:** ${{ github.event.client_payload.email }}\n\n**Phone:** ${{ github.event.client_payload.phone }}\n\n**Message:** ${{ github.event.client_payload.message }}",
+              "category": "General"
+            }'

@@ -69,14 +69,14 @@ en: &DEFAULT_EN
         image: assets/img/timeline/2.jpg
         alt:  
       - title: "伙伴集结成团：携手共筑公益梦"
-        year: "2025.09.23"
+        year: "2025.09.22"
         desc: "志同道合的伙伴们正式集结成团队。凭借各自的专长与热忱，我们携手前行，希望将这份公益事业做得更扎实、更深远，让更多人感受到这份努力带来的力量。"
         image: assets/img/timeline/3.jpg
         alt: 
 
         # you can enforce the alignment
         align: right
-    end: "加入我们，<br>成为故事的一部分！"
+    end: "Be Part <br> of Our <br> Story!"
 
   about:
     title: "About Us"
