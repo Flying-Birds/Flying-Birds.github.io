@@ -1,0 +1,45 @@
+name: Convert Contact Issue to Discussion
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  convert-to-discussion:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check if it's a contact form submission
+        id: check-issue
+        run: |
+          if [[ "${{ github.event.issue.title }}" == Contact* ]]; then
+            echo "is_contact=true" >> $GITHUB_OUTPUT
+          else
+            echo "is_contact=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Convert to discussion
+        if: steps.check-issue.outputs.is_contact == 'true'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # 使用GitHub自动生成的令牌
+        run: |
+          # 获取Issue内容
+          ISSUE_BODY=$(curl -s -H "Authorization: token $GITHUB_TOKEN" \
+            "https://api.github.com/repos/${{ github.repository }}/issues/${{ github.event.issue.number }}" | jq -r .body)
+          
+          # 创建Discussion
+          curl -X POST \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: token $GITHUB_TOKEN" \
+            "https://api.github.com/repos/${{ github.repository }}/discussions" \
+            -d '{
+              "title": "'"${{ github.event.issue.title }}"'",
+              "body": "'"$ISSUE_BODY"'",
+              "category": "General"  # 确保你的仓库有这个讨论分类
+            }'
+          
+          # 关闭原始Issue
+          curl -X PATCH \
+            -H "Authorization: token $GITHUB_TOKEN" \
+            -H "Content-Type: application/json" \
+            "https://api.github.com/repos/${{ github.repository }}/issues/${{ github.event.issue.number }}" \
+            -d '{"state": "closed", "body": "This contact form submission has been moved to discussions."}'
