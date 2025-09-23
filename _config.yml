@@ -41,3 +41,6 @@ markdown: kramdown
 
 plugins:
   - jekyll-remote-theme
+
+env:
+  CONTACT_FORM_TOKEN: $CONTACT_FORM_TOKEN
