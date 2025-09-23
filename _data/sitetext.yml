@@ -67,12 +67,12 @@ en: &DEFAULT_EN
       - title: "从一人到两人：风雨同行的力量"
         year: "2025.06.14"
         desc: "窗外雨势正浓，咖啡馆内暖意融融。从独自践行初心，到两个人的撑伞同行，这份公益之路从此多了份笃定。看着雨幕，我想，再大的风雨，两个人都能撑起一片晴天。"
-        image: assets/img/timeline/2.jpg
+        image: assets/img/timeline/3.jpg
         alt:  
       - title: "伙伴集结成团：携手共筑公益梦"
         year: "2025.09.22"
         desc: "志同道合的伙伴们正式集结成团队。凭借各自的专长与热忱，我们携手前行，希望将这份公益事业做得更扎实、更深远，让更多人感受到这份努力带来的力量。"
-        image: assets/img/timeline/3.jpg
+        image: assets/img/timeline/4.jpg
         alt: 
 
         # you can enforce the alignment
@@ -285,12 +285,12 @@ ch: &DEFAULT_ES
       - title: "从一人到两人：风雨同行的力量"
         year: "2025.06.14"
         desc: "窗外雨势正浓，咖啡馆内暖意融融。从独自践行初心，到两个人的撑伞同行，这份公益之路从此多了份笃定。看着雨幕，我想，再大的风雨，两个人都能撑起一片晴天。"
-        image: assets/img/timeline/2.jpg
+        image: assets/img/timeline/3.jpg
         alt:  
       - title: "伙伴集结成团：携手共筑公益梦"
         year: "2025.09.22"
         desc: "志同道合的伙伴们正式集结成团队。凭借各自的专长与热忱，我们携手前行，希望将这份公益事业做得更扎实、更深远，让更多人感受到这份努力带来的力量。"
-        image: assets/img/timeline/3.jpg
+        image: assets/img/timeline/4.jpg
         alt: 
 
         # you can enforce the alignment
