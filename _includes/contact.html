@@ -117,34 +117,50 @@
 {% endif %}
 
 <script>
-    document.getElementById('contactForm').addEventListener('submit', function(e) {
+    document.getElementById('contactForm').addEventListener('submit', async function(e) {
         e.preventDefault();
+        const errorDiv = document.getElementById('errorMessage');
+        errorDiv.textContent = '';
         
-        const data = {
-            name: document.getElementById('name').value,
-            email: document.getElementById('email').value,
-            message: document.getElementById('message').value
-        };
+        try {
+            const data = {
+                name: document.getElementById('name').value,
+                email: document.getElementById('email').value,
+                message: document.getElementById('message').value
+            };
 
-        // 公共仓库：完全移除Authorization头，无需任何token
-        fetch('https://api.github.com/repos/Flying-Birds/Flying-Birds.github.io/dispatches', {
-            method: 'POST',
-            headers: {
-                'Content-Type': 'application/json'
-                // 这里没有Authorization头，彻底避免token暴露
-            },
-            body: JSON.stringify({
-                event_type: 'proxy-contact-form',
-                client_payload: data
-            })
-        })
-        .then(response => {
+            // 确保仓库路径正确（对于username.github.io仓库，通常仓库名就是username.github.io）
+            const repoOwner = 'Flying-Birds';
+            const repoName = 'Flying-Birds.github.io';
+            const apiUrl = `https://api.github.com/repos/${repoOwner}/${repoName}/dispatches`;
+
+            const response = await fetch(apiUrl, {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                    'User-Agent': 'GitHub Pages Contact Form',
+                    'Accept': 'application/vnd.github.v3+json' // 明确指定GitHub API版本
+                },
+                body: JSON.stringify({
+                    event_type: 'proxy-contact-form',
+                    client_payload: data
+                }),
+                mode: 'cors' // 显式指定跨域模式
+            });
+
+            const responseText = await response.text();
+            
             if (response.ok) {
                 alert('Message sent successfully!');
                 this.reset();
             } else {
-                alert('Failed to send message');
+                errorDiv.textContent = `发送失败: ${response.status} - ${responseText}`;
+                console.error('API响应状态:', response.status);
+                console.error('API响应内容:', responseText);
             }
-        });
+        } catch (error) {
+            errorDiv.textContent = `错误: ${error.message}`;
+            console.error('请求异常:', error);
+        }
     });
 </script>
