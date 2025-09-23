@@ -177,9 +177,9 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: 
             icon: fab fa-linkedin-in
-      - name: "xxx"
-        role: "Lead Developer"
-        image: assets/img/team/1.jpg
+      - name: "Jia Chen"
+        role: "Core Member"
+        image: assets/img/team/jia.jpg
         social:
           - url: 
             icon: fab fa-twitter
@@ -394,9 +394,9 @@ ch: &DEFAULT_ES
             icon: fab fa-facebook-f
           - url: 
             icon: fab fa-linkedin-in
-      - name: "xxx"
-        role: "Lead Developer"
-        image: assets/img/team/1.jpg
+      - name: "Jia Chen"
+        role: "Core Member"
+        image: assets/img/team/jia.jpg
         social:
           - url: 
             icon: fab fa-twitter
