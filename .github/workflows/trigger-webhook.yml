@@ -1,0 +1,40 @@
+name: Trigger Contact Webhook
+
+# 允许通过GitHub API触发
+on:
+  repository_dispatch:
+    types: [proxy-contact-form]  # 用于前端触发的事件类型
+
+jobs:
+  trigger-internal:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Forward to internal webhook
+        env:
+          # 从前端接收的表单数据
+          FORM_DATA: ${{ toJSON(github.event.client_payload) }}
+          # 你的仓库信息
+          REPO_OWNER: ${{ github.repository_owner }}
+          REPO_NAME: ${{ github.event.repository.name }}
+          # Webhook密钥（在仓库Secrets中设置，名为WEBHOOK_SECRET）
+          WEBHOOK_SECRET: ${{ secrets.WEBHOOK_SECRET }}
+        run: |
+          # 解析表单数据
+          NAME=$(echo "$FORM_DATA" | jq -r '.name')
+          EMAIL=$(echo "$FORM_DATA" | jq -r '.email')
+          MESSAGE=$(echo "$FORM_DATA" | jq -r '.message')
+          
+          # 触发内部Webhook，使用GitHub Actions的令牌
+          curl -X POST \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+            -H "X-GitHub-Event: repository_dispatch" \
+            "https://api.github.com/repos/$REPO_OWNER/$REPO_NAME/dispatches" \
+            -d '{
+              "event_type": "contact-form-submission",
+              "client_payload": {
+                "name": "'"$NAME"'",
+                "email": "'"$EMAIL"'",
+                "message": "'"$MESSAGE"'"
+              }
+            }'
