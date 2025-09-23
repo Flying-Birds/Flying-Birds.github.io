@@ -1,0 +1,30 @@
+name: Contact Form to Discussion
+
+# 触发条件：仓库接收Webhook事件
+on:
+  repository_dispatch:
+    types: [contact-form-submission]  # 自定义事件类型
+
+jobs:
+  create-discussion:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Create GitHub Discussion
+        env:
+          # 使用GitHub自动生成的令牌，无需手动创建
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # 从Webhook payload中获取表单数据
+          FORM_NAME: ${{ github.event.client_payload.name }}
+          FORM_EMAIL: ${{ github.event.client_payload.email }}
+          FORM_MESSAGE: ${{ github.event.client_payload.message }}
+        run: |
+          # 调用GitHub API创建讨论
+          curl -X POST \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer $GITHUB_TOKEN" \
+            https://api.github.com/repos/${{ github.repository }}/discussions \
+            -d '{
+              "title": "New contact from '"$FORM_NAME"'",
+              "body": "**Name:** '"$FORM_NAME"'\n\n**Email:** '"$FORM_EMAIL"'\n\n**Message:** '"$FORM_MESSAGE"'",
+              "category": "General"  # 替换为你的讨论分类
+            }'
