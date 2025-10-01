@@ -118,7 +118,7 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://www.linkedin.com/in/yazhuo-guan-a271a2112/
             icon: fab fa-linkedin-in
-      - name: "Wanting Huang"
+      - name: "Wanting"
         role: "Co-Organizer"
         image: assets/img/team/wanting.jpg
         social:
@@ -336,7 +336,7 @@ ch: &DEFAULT_ES
             icon: fab fa-facebook-f
           - url: https://www.linkedin.com/in/yazhuo-guan-a271a2112/
             icon: fab fa-linkedin-in
-      - name: "Wanting Huang"
+      - name: "Wanting"
         role: "Co-Organizer"
         image: assets/img/team/wanting.jpg
         social:
