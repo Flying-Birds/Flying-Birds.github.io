@@ -48,6 +48,4 @@ caption:
 
 {:.list-inline}
 - Date: 20 Sep 2025
-- Client: Finish
 - Category: Offline Activities
-
