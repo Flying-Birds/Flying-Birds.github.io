@@ -10,7 +10,7 @@ caption:
 ---
 
 <div style="text-align: center;">
-  <img src="assets/img/portfolio/0-content-01.jpg" alt="" style="max-width: 80%; height: auto;">
+  <img src="assets/img/portfolio/01-content-01.jpg" alt="" style="max-width: 80%; height: auto;">
 </div>
 
 人世间的缘分总是很奇妙。
