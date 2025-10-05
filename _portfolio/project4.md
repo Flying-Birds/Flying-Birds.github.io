@@ -6,7 +6,7 @@ alt:
 caption:
   title: Episode 4
   subtitle: 国庆欢唱会
-  thumbnail: assets/img/portfolio/04-thumbnail.jpg
+  thumbnail: assets/img/portfolio/04-thumbnail.png
 ---
 
 <div style="text-align: center;">

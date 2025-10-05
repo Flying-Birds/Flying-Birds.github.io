@@ -6,7 +6,7 @@ alt:
 caption:
   title: Episode 5
   subtitle: 原生家庭
-  thumbnail: assets/img/portfolio/05-thumbnail.jpg
+  thumbnail: assets/img/portfolio/05-thumbnail.png
 ---
 
 <!-- <div style="text-align: center;">
