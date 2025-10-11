@@ -118,6 +118,7 @@ en: &DEFAULT_EN
     people:
       - name: "Yazhuo Guan"
         role: "Organizer"
+        category: organizer
         image: assets/img/team/yazhuo.jpg
         social:
           - url: https://github.com/YazhuoGuan
@@ -128,6 +129,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Wanting"
         role: "Co-Organizer"
+        category: organizer
         image: assets/img/team/wanting.jpg
         social:
           - url: 
@@ -138,6 +140,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Xiaolu Qi"
         role: "Lead Developer"
+        category: core member
         image: assets/img/team/xiaolu.jpg
         social:
           - url: 
@@ -148,6 +151,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Zhiguan Wang"
         role: "Lead Developer"
+        category: core member
         image: assets/img/team/zhiguan.jpg
         social:
           - url: 
@@ -158,6 +162,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Jiushi Wang"
         role: "Lead Developer"
+        category: core member
         image: assets/img/team/jiushi.jpg
         social:
           - url: 
@@ -168,6 +173,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Lin"
         role: "Core Member"
+        category: core member
         image: assets/img/team/lin.jpg
         social:
           - url: 
@@ -178,6 +184,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Cen Liang"
         role: "Core Member"
+        category: core member
         image: assets/img/team/cen.jpg
         social:
           - url: 
@@ -188,6 +195,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Jia Chen"
         role: "Core Member"
+        category: core member
         image: assets/img/team/jia.jpg
         social:
           - url: 
@@ -198,6 +206,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Jialuo Chen"
         role: "Core Member"
+        category: core member
         image: assets/img/team/jialuo.jpg
         social:
           - url: 
@@ -206,6 +215,18 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: 
             icon: fab fa-linkedin-in
+      - name: "Bin Jiang"
+        role: "Core Member"
+        category: core member
+        image: assets/img/team/jiang.jpg
+        social:
+          - url: 
+            icon: fab fa-twitter
+          - url: 
+            icon: fab fa-facebook-f
+          - url: 
+            icon: fab fa-linkedin-in
+            
 
   contact:
     title: "Contact Us"
@@ -336,6 +357,7 @@ ch: &DEFAULT_ES
     people:
       - name: "Yazhuo Guan"
         role: "Organizer"
+        category: organizer
         image: assets/img/team/yazhuo.jpg
         social:
           - url: https://github.com/YazhuoGuan
@@ -346,6 +368,7 @@ ch: &DEFAULT_ES
             icon: fab fa-linkedin-in
       - name: "Wanting"
         role: "Co-Organizer"
+        category: organizer
         image: assets/img/team/wanting.jpg
         social:
           - url: 
@@ -355,7 +378,8 @@ ch: &DEFAULT_ES
           - url: 
             icon: fab fa-linkedin-in
       - name: "Xiaolu Qi"
-        role: "Developer"
+        role: "Lead Developer"
+        category: core member
         image: assets/img/team/xiaolu.jpg
         social:
           - url: 
@@ -365,7 +389,8 @@ ch: &DEFAULT_ES
           - url: 
             icon: fab fa-linkedin-in
       - name: "Zhiguan Wang"
-        role: "Developer"
+        role: "Lead Developer"
+        category: core member
         image: assets/img/team/zhiguan.jpg
         social:
           - url: 
@@ -376,6 +401,7 @@ ch: &DEFAULT_ES
             icon: fab fa-linkedin-in
       - name: "Jiushi Wang"
         role: "Lead Developer"
+        category: core member
         image: assets/img/team/jiushi.jpg
         social:
           - url: 
@@ -386,6 +412,7 @@ ch: &DEFAULT_ES
             icon: fab fa-linkedin-in
       - name: "Lin"
         role: "Core Member"
+        category: core member
         image: assets/img/team/lin.jpg
         social:
           - url: 
@@ -396,6 +423,7 @@ ch: &DEFAULT_ES
             icon: fab fa-linkedin-in
       - name: "Cen Liang"
         role: "Core Member"
+        category: core member
         image: assets/img/team/cen.jpg
         social:
           - url: 
@@ -406,6 +434,7 @@ ch: &DEFAULT_ES
             icon: fab fa-linkedin-in
       - name: "Jia Chen"
         role: "Core Member"
+        category: core member
         image: assets/img/team/jia.jpg
         social:
           - url: 
@@ -416,7 +445,19 @@ ch: &DEFAULT_ES
             icon: fab fa-linkedin-in
       - name: "Jialuo Chen"
         role: "Core Member"
+        category: core member
         image: assets/img/team/jialuo.jpg
+        social:
+          - url: 
+            icon: fab fa-twitter
+          - url: 
+            icon: fab fa-facebook-f
+          - url: 
+            icon: fab fa-linkedin-in
+      - name: "Bin Jiang"
+        role: "Core Member"
+        category: core member
+        image: assets/img/team/jiang.jpg
         social:
           - url: 
             icon: fab fa-twitter
