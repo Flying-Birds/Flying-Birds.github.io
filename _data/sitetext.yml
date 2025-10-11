@@ -142,90 +142,90 @@ en: &DEFAULT_EN
         role: "Lead Developer"
         category: core member
         image: assets/img/team/xiaolu.jpg
-        social:
-          - url: 
-            icon: fab fa-twitter
-          - url: 
-            icon: fab fa-facebook-f
-          - url: 
-            icon: fab fa-linkedin-in
+        # social:
+        #   - url: 
+        #     icon: fab fa-twitter
+        #   - url: 
+        #     icon: fab fa-facebook-f
+        #   - url: 
+        #     icon: fab fa-linkedin-in
       - name: "Zhiguan Wang"
         role: "Lead Developer"
         category: core member
         image: assets/img/team/zhiguan.jpg
-        social:
-          - url: 
-            icon: fab fa-twitter
-          - url: 
-            icon: fab fa-facebook-f
-          - url: 
-            icon: fab fa-linkedin-in
+        # social:
+        #   - url: 
+        #     icon: fab fa-twitter
+        #   - url: 
+        #     icon: fab fa-facebook-f
+        #   - url: 
+        #     icon: fab fa-linkedin-in
       - name: "Jiushi Wang"
         role: "Lead Developer"
         category: core member
         image: assets/img/team/jiushi.jpg
-        social:
-          - url: 
-            icon: fab fa-twitter
-          - url: 
-            icon: fab fa-facebook-f
-          - url: 
-            icon: fab fa-linkedin-in
+        # social:
+        #   - url: 
+        #     icon: fab fa-twitter
+        #   - url: 
+        #     icon: fab fa-facebook-f
+        #   - url: 
+        #     icon: fab fa-linkedin-in
       - name: "Lin"
         role: "Core Member"
         category: core member
         image: assets/img/team/lin.jpg
-        social:
-          - url: 
-            icon: fab fa-twitter
-          - url: 
-            icon: fab fa-facebook-f
-          - url: 
-            icon: fab fa-linkedin-in
+        # social:
+        #   - url: 
+        #     icon: fab fa-twitter
+        #   - url: 
+        #     icon: fab fa-facebook-f
+        #   - url: 
+        #     icon: fab fa-linkedin-in
       - name: "Cen Liang"
         role: "Core Member"
         category: core member
         image: assets/img/team/cen.jpg
-        social:
-          - url: 
-            icon: fab fa-twitter
-          - url: 
-            icon: fab fa-facebook-f
-          - url: 
-            icon: fab fa-linkedin-in
+        # social:
+        #   - url: 
+        #     icon: fab fa-twitter
+        #   - url: 
+        #     icon: fab fa-facebook-f
+        #   - url: 
+        #     icon: fab fa-linkedin-in
       - name: "Jia Chen"
         role: "Core Member"
         category: core member
         image: assets/img/team/jia.jpg
-        social:
-          - url: 
-            icon: fab fa-twitter
-          - url: 
-            icon: fab fa-facebook-f
-          - url: 
-            icon: fab fa-linkedin-in
+        # social:
+        #   - url: 
+        #     icon: fab fa-twitter
+        #   - url: 
+        #     icon: fab fa-facebook-f
+        #   - url: 
+        #     icon: fab fa-linkedin-in
       - name: "Jialuo Chen"
         role: "Core Member"
         category: core member
         image: assets/img/team/jialuo.jpg
-        social:
-          - url: 
-            icon: fab fa-twitter
-          - url: 
-            icon: fab fa-facebook-f
-          - url: 
-            icon: fab fa-linkedin-in
+        # social:
+        #   - url: 
+        #     icon: fab fa-twitter
+        #   - url: 
+        #     icon: fab fa-facebook-f
+        #   - url: 
+        #     icon: fab fa-linkedin-in
       - name: "Bin Jiang"
         role: "Core Member"
         category: core member
         image: assets/img/team/jiang.jpg
-        social:
-          - url: 
-            icon: fab fa-twitter
-          - url: 
-            icon: fab fa-facebook-f
-          - url: 
-            icon: fab fa-linkedin-in
+        # social:
+        #   - url: 
+        #     icon: fab fa-twitter
+        #   - url: 
+        #     icon: fab fa-facebook-f
+        #   - url: 
+        #     icon: fab fa-linkedin-in
             
 
   contact:
@@ -381,90 +381,90 @@ ch: &DEFAULT_ES
         role: "Lead Developer"
         category: core member
         image: assets/img/team/xiaolu.jpg
-        social:
-          - url: 
-            icon: fab fa-twitter
-          - url: 
-            icon: fab fa-facebook-f
-          - url: 
-            icon: fab fa-linkedin-in
+        # social:
+        #   - url: 
+        #     icon: fab fa-twitter
+        #   - url: 
+        #     icon: fab fa-facebook-f
+        #   - url: 
+        #     icon: fab fa-linkedin-in
       - name: "Zhiguan Wang"
         role: "Lead Developer"
         category: core member
         image: assets/img/team/zhiguan.jpg
-        social:
-          - url: 
-            icon: fab fa-twitter
-          - url: 
-            icon: fab fa-facebook-f
-          - url: 
-            icon: fab fa-linkedin-in
+        # social:
+        #   - url: 
+        #     icon: fab fa-twitter
+        #   - url: 
+        #     icon: fab fa-facebook-f
+        #   - url: 
+        #     icon: fab fa-linkedin-in
       - name: "Jiushi Wang"
         role: "Lead Developer"
         category: core member
         image: assets/img/team/jiushi.jpg
-        social:
-          - url: 
-            icon: fab fa-twitter
-          - url: 
-            icon: fab fa-facebook-f
-          - url: 
-            icon: fab fa-linkedin-in
+        # social:
+        #   - url: 
+        #     icon: fab fa-twitter
+        #   - url: 
+        #     icon: fab fa-facebook-f
+        #   - url: 
+        #     icon: fab fa-linkedin-in
       - name: "Lin"
         role: "Core Member"
         category: core member
         image: assets/img/team/lin.jpg
-        social:
-          - url: 
-            icon: fab fa-twitter
-          - url: 
-            icon: fab fa-facebook-f
-          - url: 
-            icon: fab fa-linkedin-in
+        # social:
+        #   - url: 
+        #     icon: fab fa-twitter
+        #   - url: 
+        #     icon: fab fa-facebook-f
+        #   - url: 
+        #     icon: fab fa-linkedin-in
       - name: "Cen Liang"
         role: "Core Member"
         category: core member
         image: assets/img/team/cen.jpg
-        social:
-          - url: 
-            icon: fab fa-twitter
-          - url: 
-            icon: fab fa-facebook-f
-          - url: 
-            icon: fab fa-linkedin-in
+        # social:
+        #   - url: 
+        #     icon: fab fa-twitter
+        #   - url: 
+        #     icon: fab fa-facebook-f
+        #   - url: 
+        #     icon: fab fa-linkedin-in
       - name: "Jia Chen"
         role: "Core Member"
         category: core member
         image: assets/img/team/jia.jpg
-        social:
-          - url: 
-            icon: fab fa-twitter
-          - url: 
-            icon: fab fa-facebook-f
-          - url: 
-            icon: fab fa-linkedin-in
+        # social:
+        #   - url: 
+        #     icon: fab fa-twitter
+        #   - url: 
+        #     icon: fab fa-facebook-f
+        #   - url: 
+        #     icon: fab fa-linkedin-in
       - name: "Jialuo Chen"
         role: "Core Member"
         category: core member
         image: assets/img/team/jialuo.jpg
-        social:
-          - url: 
-            icon: fab fa-twitter
-          - url: 
-            icon: fab fa-facebook-f
-          - url: 
-            icon: fab fa-linkedin-in
+        # social:
+        #   - url: 
+        #     icon: fab fa-twitter
+        #   - url: 
+        #     icon: fab fa-facebook-f
+        #   - url: 
+        #     icon: fab fa-linkedin-in
       - name: "Bin Jiang"
         role: "Core Member"
         category: core member
         image: assets/img/team/jiang.jpg
-        social:
-          - url: 
-            icon: fab fa-twitter
-          - url: 
-            icon: fab fa-facebook-f
-          - url: 
-            icon: fab fa-linkedin-in
+        # social:
+        #   - url: 
+        #     icon: fab fa-twitter
+        #   - url: 
+        #     icon: fab fa-facebook-f
+        #   - url: 
+        #     icon: fab fa-linkedin-in
 
   contact:
     title: "Contáctenos"
