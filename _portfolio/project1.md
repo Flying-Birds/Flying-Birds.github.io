@@ -9,6 +9,8 @@ caption:
   thumbnail: assets/img/portfolio/01-thumbnail.png
 ---
 
+<audio src="assets/audio/portfolio/马友友-Après un rêve, Op. 7, No. 1.mp3" preload="none" controls loop></audio>
+
 <div style="text-align: center;">
   <img src="assets/img/portfolio/01-content-01.jpg" alt="" style="max-width: 80%; height: auto;">
 </div>

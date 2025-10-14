@@ -9,6 +9,8 @@ caption:
   thumbnail: assets/img/portfolio/02-thumbnail.png
 ---
 
+<audio src="assets/audio/portfolio/马友友-Cello Suite No. 1 in G Major, BWV 1007I. Prélude.mp3" preload="none" controls loop></audio>
+
 <div style="text-align: center;">
   <img src="assets/img/portfolio/02-content-01.jpg" alt="在蓬蒿剧场看到我最喜欢的一句话" style="max-width: 80%; height: auto;">
 </div>

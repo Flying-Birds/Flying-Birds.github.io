@@ -9,6 +9,8 @@ caption:
   thumbnail: assets/img/portfolio/05-thumbnail.png
 ---
 
+<audio src="assets/audio/portfolio/王菲-世界赠予我的.mp3" preload="none" controls loop></audio>
+
 <!-- <div style="text-align: center;">
   <img src="assets/img/portfolio/.jpg" alt="" style="max-width: 80%; height: auto;">
 </div>

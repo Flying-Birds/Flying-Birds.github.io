@@ -9,6 +9,8 @@ caption:
   thumbnail: assets/img/portfolio/03-thumbnail.png
 ---
 
+<audio src="assets/audio/portfolio/莫文蔚,毛不易-岁月里的花.mp3" preload="none" controls loop></audio>
+
 <div style="text-align: center;">
   <img src="assets/img/portfolio/03-content-01.jpg" alt="肉串汪" style="max-width: 80%; height: auto;">
 </div>
