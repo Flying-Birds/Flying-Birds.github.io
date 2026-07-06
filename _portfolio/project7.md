@@ -1,0 +1,39 @@
+---
+title: 互助会第一期
+subtitle: 在彼此相伴的时光里，与自己温柔和解。
+alt: 
+
+caption:
+  title: Episode 7
+  subtitle: 互助会第一期
+  thumbnail: assets/img/portfolio/07-thumbnail.png
+---
+
+<audio src="assets/audio/portfolio/李宇春-和你一样.mp3" preload="none" controls loop></audio>
+
+<div style="text-align: center;">
+  <img src="assets/img/portfolio/07-content-01.jpg" alt="" style="max-width: 80%; height: auto;">
+</div>
+你是否总习惯对外说着一切安好，转头独自吞下满心疲惫，把迷茫、委屈全都藏在心底？我们总被要求坚强、独立，可很少有人告诉我们，愿意袒露脆弱、主动寻找陪伴，从来都不是懦弱，而是好好善待自己的勇气。
+
+<div style="text-align: center;">
+  <img src="assets/img/portfolio/07-content-02.jpg" alt="" style="max-width: 80%; height: auto;">
+</div>
+从这个群创办至今，往期活动大多是读书会、自由闲聊。这样轻松的氛围固然很好，却始终留有遗憾：擅长表达的伙伴常常占据大部分交流时间，内向社恐、不善言辞的人，很难拥有诉说内心的机会。
+
+本期互助会，在龙少年和小鹿的全力协助下，我们第一次真正实现纯粹的互助会形式，专为被情绪困住的人打造一处安心喘息之地。这里没有说教，没有评判，只有包容与倾听。我们准备了简单的分享规则：主持人抛出一个话题，比如近一个月里让自己低落难过的小事，再传递玩偶作为发言信物。玩偶落在谁手中，谁才拥有表达的权利，拿到玩偶不必勉强自己倾诉，不想开口也能直接传给下一个人。
+
+一轮又一轮简单的传递，抹平了表达上的失衡，不催促、不逼迫任何人，给到每一个人平等选择的空间。愿意倾诉的人可以尽情释放心事，习惯沉默的人也不会被忽略，每个人都拥有从容表达自己的时刻。
+
+人生从不是独自硬扛的独行路，我们都需要一个能放心展露脆弱、短暂停靠的地方。这场全新的尝试，从不强制任何人分享，核心只在于营造安全感。倾诉能消解大半苦楚，倾听能收获深层共鸣，在相似的境遇里读懂彼此，才恍然发觉，原来从来不是只有自己在煎熬。人与人之间朴素真诚的共情与陪伴，便是抚平内心内耗最温柔的力量。
+
+初次尝试互助会的形式，带给我们许多温暖的触动。不少伙伴离场时，心底都多了一份松弛与释然。往后我们也会守住这份包容松弛的氛围，愿每一位赴约而来的人，都能放下逞强的外壳，接纳自己所有情绪，在彼此相伴的时光里，慢慢和自己温柔和解。
+
+<div style="text-align: center;">
+  <img src="assets/img/portfolio/07-content-03.jpg" alt="" style="max-width: 80%; height: auto;">
+</div>
+
+
+{:.list-inline}
+- Date: 13 Dec 2025
+- Category: Offline Activities
