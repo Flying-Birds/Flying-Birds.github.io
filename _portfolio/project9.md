@@ -1,11 +1,11 @@
 ---
-title: 原生家庭
+title: 春野心屿之约
 subtitle: 于伤痛处寻光，于疗愈中成长。
 alt: 
 
 caption:
   title: Episode 9
-  subtitle: 原生家庭
+  subtitle: 春野心屿之约
   thumbnail: assets/img/portfolio/09-thumbnail.png
 ---
 
@@ -44,5 +44,5 @@ caption:
 愿你能在每一段关系里真切体会到爱，既有勇气接受爱，也有能力付出爱。愿每个人的疗愈之路，都能如歌词中所描绘的那般，在历经风雨后，终能遇见属于自己的虫鸣、弯月、晚星，还有那份能将心底空缺渐渐填满的真感情。
 
 {:.list-inline}
-- Date: 18 Oct 2025
+- Date: 25 Apr 2026
 - Category: Offline Activities
