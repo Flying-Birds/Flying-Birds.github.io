@@ -127,17 +127,6 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://www.linkedin.com/in/yazhuo-guan-a271a2112/
             icon: fab fa-linkedin-in
-      - name: "Wanting Huang"
-        role: "Co-Organizer"
-        category: organizer
-        image: assets/img/team/wanting.jpg
-        social:
-          - url: 
-            icon: fab fa-github
-          - url: 
-            icon: fab fa-facebook-f
-          - url: 
-            icon: fab fa-linkedin-in
       - name: "Xiaolu Qi"
         role: "Lead Developer"
         category: core member
@@ -182,32 +171,10 @@ en: &DEFAULT_EN
         #     icon: fab fa-facebook-f
         #   - url: 
         #     icon: fab fa-linkedin-in
-      - name: "Cen Liang"
-        role: "Core Member"
-        category: core member
-        image: assets/img/team/cen.jpg
-        # social:
-        #   - url: 
-        #     icon: fab fa-twitter
-        #   - url: 
-        #     icon: fab fa-facebook-f
-        #   - url: 
-        #     icon: fab fa-linkedin-in
-      - name: "Jia Chen"
+      - name: "Cheese"
         role: "Core Member"
         category: core member
         image: assets/img/team/jia.jpg
-        # social:
-        #   - url: 
-        #     icon: fab fa-twitter
-        #   - url: 
-        #     icon: fab fa-facebook-f
-        #   - url: 
-        #     icon: fab fa-linkedin-in
-      - name: "Jialuo Chen"
-        role: "Core Member"
-        category: core member
-        image: assets/img/team/jialuo.jpg
         # social:
         #   - url: 
         #     icon: fab fa-twitter
@@ -219,6 +186,28 @@ en: &DEFAULT_EN
         role: "Core Member"
         category: core member
         image: assets/img/team/jiang.jpg
+        # social:
+        #   - url: 
+        #     icon: fab fa-twitter
+        #   - url: 
+        #     icon: fab fa-facebook-f
+        #   - url: 
+        #     icon: fab fa-linkedin-in
+      - name: "Sponge Bob"
+        role: "Core Member"
+        category: core member
+        image: assets/img/team/sponge.jpg
+        # social:
+        #   - url: 
+        #     icon: fab fa-twitter
+        #   - url: 
+        #     icon: fab fa-facebook-f
+        #   - url: 
+        #     icon: fab fa-linkedin-in
+      - name: "Jialuo"
+        role: "Core Member"
+        category: core member
+        image: assets/img/team/jialuo.jpg
         # social:
         #   - url: 
         #     icon: fab fa-twitter
@@ -366,17 +355,6 @@ ch: &DEFAULT_ES
             icon: fab fa-facebook-f
           - url: https://www.linkedin.com/in/yazhuo-guan-a271a2112/
             icon: fab fa-linkedin-in
-      - name: "Wanting Huang"
-        role: "Co-Organizer"
-        category: organizer
-        image: assets/img/team/wanting.jpg
-        social:
-          - url: 
-            icon: fab fa-github
-          - url: 
-            icon: fab fa-facebook-f
-          - url: 
-            icon: fab fa-linkedin-in
       - name: "Xiaolu Qi"
         role: "Lead Developer"
         category: core member
@@ -421,32 +399,10 @@ ch: &DEFAULT_ES
         #     icon: fab fa-facebook-f
         #   - url: 
         #     icon: fab fa-linkedin-in
-      - name: "Cen Liang"
-        role: "Core Member"
-        category: core member
-        image: assets/img/team/cen.jpg
-        # social:
-        #   - url: 
-        #     icon: fab fa-twitter
-        #   - url: 
-        #     icon: fab fa-facebook-f
-        #   - url: 
-        #     icon: fab fa-linkedin-in
-      - name: "Jia Chen"
+      - name: "Cheese"
         role: "Core Member"
         category: core member
         image: assets/img/team/jia.jpg
-        # social:
-        #   - url: 
-        #     icon: fab fa-twitter
-        #   - url: 
-        #     icon: fab fa-facebook-f
-        #   - url: 
-        #     icon: fab fa-linkedin-in
-      - name: "Jialuo Chen"
-        role: "Core Member"
-        category: core member
-        image: assets/img/team/jialuo.jpg
         # social:
         #   - url: 
         #     icon: fab fa-twitter
@@ -458,6 +414,28 @@ ch: &DEFAULT_ES
         role: "Core Member"
         category: core member
         image: assets/img/team/jiang.jpg
+        # social:
+        #   - url: 
+        #     icon: fab fa-twitter
+        #   - url: 
+        #     icon: fab fa-facebook-f
+        #   - url: 
+        #     icon: fab fa-linkedin-in
+      - name: "Sponge Bob"
+        role: "Core Member"
+        category: core member
+        image: assets/img/team/sponge.jpg
+        # social:
+        #   - url: 
+        #     icon: fab fa-twitter
+        #   - url: 
+        #     icon: fab fa-facebook-f
+        #   - url: 
+        #     icon: fab fa-linkedin-in
+      - name: "Jialuo"
+        role: "Core Member"
+        category: core member
+        image: assets/img/team/jialuo.jpg
         # social:
         #   - url: 
         #     icon: fab fa-twitter
