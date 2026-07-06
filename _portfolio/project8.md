@@ -4,9 +4,9 @@ subtitle: 于伤痛处寻光，于疗愈中成长。
 alt: 
 
 caption:
-  title: Episode 5
+  title: Episode 8
   subtitle: 原生家庭
-  thumbnail: assets/img/portfolio/05-thumbnail.png
+  thumbnail: assets/img/portfolio/08-thumbnail.png
 ---
 
 <audio src="assets/audio/portfolio/王菲-世界赠予我的.mp3" preload="none" controls loop></audio>
