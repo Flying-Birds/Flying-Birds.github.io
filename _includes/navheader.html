@@ -12,6 +12,11 @@
       {{ site.title }}
       {% endif %}
     </a>
+    <div class="language-switcher language-switcher-top">
+      <a class="{% if current_language == 'zh' %}active{% endif %}" href="{{ '/zh.html' | relative_url }}" lang="zh">中文</a>
+      <span class="language-divider">/</span>
+      <a class="{% if current_language == 'en' %}active{% endif %}" href="{{ '/' | relative_url }}" lang="en">EN</a>
+    </div>
     <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
       Menu
       <i class="fas fa-bars"></i>
@@ -27,11 +32,6 @@
           {% endif %}
         </li>
         {% endfor %}
-        <li class="nav-item language-switcher">
-          <a class="nav-link{% if current_language == 'zh' %} active{% endif %}" href="{{ '/zh.html' | relative_url }}" lang="zh">中文</a>
-          <span class="nav-link language-divider">/</span>
-          <a class="nav-link{% if current_language == 'en' %} active{% endif %}" href="{{ '/' | relative_url }}" lang="en">EN</a>
-        </li>
       </ul>
     </div>
   </div>
@@ -51,12 +51,19 @@
   .language-switcher {
     display: flex;
     align-items: center;
-    margin-left: 0.75rem;
+    gap: 0.35rem;
+    margin-left: 1rem;
+    font-family: Montserrat, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-size: 0.9rem;
+    font-weight: 700;
+    letter-spacing: 0.0625em;
+    text-transform: uppercase;
+    white-space: nowrap;
   }
 
-  .language-switcher .nav-link {
-    padding-left: 0.35rem !important;
-    padding-right: 0.35rem !important;
+  .language-switcher a {
+    color: #fff;
+    text-decoration: none;
   }
 
   .language-switcher .active {
@@ -69,9 +76,13 @@
   }
 
   @media (max-width: 991.98px) {
+    .language-switcher-top {
+      margin-left: auto;
+      margin-right: 0.75rem;
+    }
+
     .language-switcher {
-      justify-content: flex-start;
-      margin-left: 0;
+      font-size: 0.8rem;
     }
   }
 </style>
