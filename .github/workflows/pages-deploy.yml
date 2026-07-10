@@ -8,10 +8,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Build
-        env:
-          CONTACT_FORM_TOKEN: ${{ secrets.CONTACT_FORM_TOKEN }}
         run: |
-          echo "CONTACT_FORM_TOKEN=$CONTACT_FORM_TOKEN" > .env
           bundle install
           bundle exec jekyll build
       - name: Deploy
