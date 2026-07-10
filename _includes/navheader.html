@@ -61,11 +61,12 @@
   }
 
   .language-switcher-right {
-    position: absolute;
-    right: 1.5rem;
-    top: 50%;
-    transform: translateY(-50%);
-    z-index: 1040;
+    position: fixed !important;
+    right: 1.5rem !important;
+    left: auto !important;
+    top: 1.35rem !important;
+    transform: none !important;
+    z-index: 2000;
   }
 
   @media (min-width: 992px) {
@@ -90,7 +91,8 @@
 
   @media (max-width: 991.98px) {
     .language-switcher-right {
-      right: 6.25rem;
+      right: 6.25rem !important;
+      top: 1rem !important;
     }
 
     .language-switcher {
