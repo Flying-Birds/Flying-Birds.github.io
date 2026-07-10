@@ -40,13 +40,13 @@ en: &DEFAULT_EN
     list:
       - title: "[为何家会伤人](https://book.douban.com/subject/30359352/)"
         desc: "孩子天然是乐于满足父母的，我们这个过于讲孝道的社会常常忽视这一点，而片面强调父母的伟大与正确，却忽视了孩子对父母的天然的爱，一样伟大。"
-        icon: fas fa-solid fa-book #find more at https://fontawesome.com/icons
+        image: assets/img/ref/MrsDalloway.jpg
       - title: "[Educated](https://book.douban.com/subject/33440205/)"
         desc: "无论你成为谁，无论你把自己变成了什么，那就是你本来的样子。它一直在你心中。不是在剑桥，而是在于你自已。你就是黄金。回到杨百翰大学，甚至回到你家乡的那座从地山，都不会改变你是谁。那可能会改变别人对你的看法，甚至也会改变你对自己的看法一即便是就金，在某些光线下也会显得晦暗， 但那只是错觉。金子一直是金子。"
-        icon: fas fa-solid fa-book
+        image: assets/img/ref/TheVegetarian.jpg
       - title: "[嫌われる勇気](https://book.douban.com/subject/26369699/)"
         desc: "人根本不可能一个人活着，只有在社会性的环境之下才能成为“个人”。因此，阿德勒心理学把作为个人的“自立”和在社会中的“和谐”作为重大目标。那么，如何才能实现这些目标呢？阿德勒说：“在这里必须要克服‘工作’‘交友’和‘爱’这三大课题。”"
-        icon: fas fa-solid fa-book
+        image: assets/img/ref/TotheLighthouse.jpg
 
   portfolio:
     title: "Reviews"
@@ -248,7 +248,7 @@ en: &DEFAULT_EN
 
 # Chinese
 # -------
-ch: &DEFAULT_ES
+ch: &DEFAULT_ZH
   header:
     title: 第四期活动预告
     text: 原生家庭
@@ -257,9 +257,14 @@ ch: &DEFAULT_ES
 
   intro:
     title: "原生家庭"
-    text: "Overcoming Their Hurtful Legacy and Reclaiming Your Life"
+    text: "疗愈伤痛，重拾人生"
     section: intro 
-   #image: assets/img/posters/1.jpg
+    image: assets/img/posters/episode_5.png
+    description: "“原生家庭” 这四个字，似乎自带一种沉重的分量。<br>
+                  每次提起，总有人会瞬间沉默 —— 那些被忽视的委屈、未被回应的期待、悄悄压抑的情绪，连同童年里不愿触碰的创伤记忆，会瞬间翻涌上来。
+                  我们都知道，强迫自己回头面对那些过往，是一件需要勇气，甚至会伴随痛苦的事。<br>
+                  但就像《原生家庭》这本书告诉我们的：直面伤痛，从来不是为了沉溺过去，而是为了挣脱束缚。<br>
+                  如果你也曾被 “原生家庭” 的话题牵动心绪，如果你渴望在文字与交流中找到力量，欢迎来赴这场关于“自我救赎”的约会。在这里，你的每一份感受都值得被看见，每一步成长都值得被肯定。"
 
   services:
     title: "每月推荐"
@@ -268,23 +273,23 @@ ch: &DEFAULT_ES
     list:
       - title: "为何家会伤人(https://book.douban.com/subject/30359352/)"
         desc: "孩子天然是乐于满足父母的，我们这个过于讲孝道的社会常常忽视这一点，而片面强调父母的伟大与正确，却忽视了孩子对父母的天然的爱，一样伟大。"
-        icon: fas fa-solid fa-book #find more at https://fontawesome.com/icons
+        image: assets/img/ref/MrsDalloway.jpg
       - title: "你当像鸟飞往你的山(https://book.douban.com/subject/33440205/)"
         desc: "无论你成为谁，无论你把自己变成了什么，那就是你本来的样子。它一直在你心中。不是在剑桥，而是在于你自已。你就是黄金。回到杨百翰大学，甚至回到你家乡的那座从地山，都不会改变你是谁。那可能会改变别人对你的看法，甚至也会改变你对自己的看法一即便是就金，在某些光线下也会显得晦暗， 但那只是错觉。金子一直是金子。"
-        icon: fas fa-solid fa-book
+        image: assets/img/ref/TheVegetarian.jpg
       - title: "被讨厌的勇气(https://book.douban.com/subject/26369699/)"
         desc: "人根本不可能一个人活着，只有在社会性的环境之下才能成为“个人”。因此，阿德勒心理学把作为个人的“自立”和在社会中的“和谐”作为重大目标。那么，如何才能实现这些目标呢？阿德勒说：“在这里必须要克服‘工作’‘交友’和‘爱’这三大课题。”"
-        icon: fas fa-solid fa-book
+        image: assets/img/ref/TotheLighthouse.jpg
 
   portfolio:
-    title: "Reviews"
+    title: "活动回顾"
     text: "高光时刻"
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "关闭"
 
 
   timeline:
-    title: "Timeline"
+    title: "时间线"
     text: "这是一段关于爱与坚持的旅程，邀请你一起见证我们的成长与改变。"
     section: timeline
     # left is the default
@@ -313,10 +318,10 @@ ch: &DEFAULT_ES
 
         # you can enforce the alignment
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+    end: "成为<br>故事的<br>一部分"
 
   about:
-    title: "Our Story"
+    title: "我们的故事"
     text: "从最初的梦想出发，我们用行动书写了属于我们的故事。"
     section: about
 
@@ -339,13 +344,13 @@ ch: &DEFAULT_ES
   #       logo: assets/img/clients/creative-market.jpg
 
   team:
-    title: "OUR AMAZING TEAM"
+    title: "我们的团队"
     text: "从初心到行动，我们携手前行，每一个成员的努力都让这段旅程更加精彩。"
     subtext: "我们因共同的信念而集结，用团队的力量为他人点亮希望与温暖。每一个成员都是故事的主角，他们的努力让这段旅程更加精彩，也让我们离梦想更近一步。"
     section: team
     people:
       - name: "Yazhuo Guan"
-        role: "Organizer"
+        role: "组织者"
         category: organizer
         image: assets/img/team/yazhuo.jpg
         social:
@@ -356,7 +361,7 @@ ch: &DEFAULT_ES
           - url: https://www.linkedin.com/in/yazhuo-guan-a271a2112/
             icon: fab fa-linkedin-in
       - name: "Xiaolu Qi"
-        role: "Lead Developer"
+        role: "开发负责人"
         category: core member
         image: assets/img/team/xiaolu.jpg
         # social:
@@ -367,7 +372,7 @@ ch: &DEFAULT_ES
         #   - url: 
         #     icon: fab fa-linkedin-in
       - name: "Zhiguan Wang"
-        role: "Lead Developer"
+        role: "开发负责人"
         category: core member
         image: assets/img/team/zhiguan.jpg
         # social:
@@ -378,7 +383,7 @@ ch: &DEFAULT_ES
         #   - url: 
         #     icon: fab fa-linkedin-in
       - name: "Jiushi Wang"
-        role: "Lead Developer"
+        role: "开发负责人"
         category: core member
         image: assets/img/team/jiushi.jpg
         # social:
@@ -389,7 +394,7 @@ ch: &DEFAULT_ES
         #   - url: 
         #     icon: fab fa-linkedin-in
       - name: "Lin"
-        role: "Core Member"
+        role: "核心成员"
         category: core member
         image: assets/img/team/lin.jpg
         # social:
@@ -400,7 +405,7 @@ ch: &DEFAULT_ES
         #   - url: 
         #     icon: fab fa-linkedin-in
       - name: "Cheese"
-        role: "Core Member"
+        role: "核心成员"
         category: core member
         image: assets/img/team/jia.jpg
         # social:
@@ -411,7 +416,7 @@ ch: &DEFAULT_ES
         #   - url: 
         #     icon: fab fa-linkedin-in
       - name: "Bin Jiang"
-        role: "Core Member"
+        role: "核心成员"
         category: core member
         image: assets/img/team/jiang.jpg
         # social:
@@ -422,7 +427,7 @@ ch: &DEFAULT_ES
         #   - url: 
         #     icon: fab fa-linkedin-in
       - name: "Sponge Bob"
-        role: "Core Member"
+        role: "核心成员"
         category: core member
         image: assets/img/team/sponge.jpg
         # social:
@@ -433,7 +438,7 @@ ch: &DEFAULT_ES
         #   - url: 
         #     icon: fab fa-linkedin-in
       - name: "Jialuo"
-        role: "Core Member"
+        role: "核心成员"
         category: core member
         image: assets/img/team/jialuo.jpg
         # social:
@@ -445,19 +450,19 @@ ch: &DEFAULT_ES
         #     icon: fab fa-linkedin-in
 
   contact:
-    title: "Contáctenos"
-    text: "Lorem ipsum or call 123456789"
-    section: contacto
-    name: "Nombre*"
-    name-validation: "Por favor ingrese su nombre."
-    email: "Correo Electrónico*"
-    email-validation: "Por favor ingrese su correo electrónico."
-    phone: "Número Telefónico*"
-    phone-validation: "Por favor ingrese su número telefónico."
-    message: "Mensaje*"
-    message-validation: "Por favor escriba un mensaje."
-    subject: "Envío del formulario de contacto"
-    submit: "Enviar Mensaje"
+    title: "联系我们"
+    text: "在这里留下你的消息"
+    section: contact
+    name: "姓名*"
+    name-validation: "请输入您的姓名。"
+    email: "邮箱*"
+    email-validation: "请输入您的邮箱地址。"
+    phone: "电话号码"
+    phone-validation: "请输入您的电话号码。"
+    message: "留言*"
+    message-validation: "请输入留言内容。"
+    subject: "联系表单提交"
+    submit: "发送留言"
 
   # footer:
   #   legal: "Política de Privacidad"
@@ -483,7 +488,7 @@ en-GB:
 en-AU:
   <<: *DEFAULT_EN
 
-es-ES:
-  <<: *DEFAULT_ES
-es-CO:
-  <<: *DEFAULT_ES
+zh-CN:
+  <<: *DEFAULT_ZH
+zh-Hans:
+  <<: *DEFAULT_ZH

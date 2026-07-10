@@ -4,7 +4,7 @@ subtitle: 有些人，从他冒着大雨赴约的那一刻起，就已经住进�
 alt: 
 
 caption:
-  title: Episode 1
+  title: 第 1 期
   subtitle: 一间只属于自己的房间
   thumbnail: assets/img/portfolio/01-thumbnail.png
 ---
@@ -59,5 +59,5 @@ caption:
 有些人，从他冒着大雨赴约的那一刻起，就已经住进了心里。
 
 {:.list-inline}
-- Date: 14 June 2025
-- Category: Offline Activities
+- 日期: 2025年6月14日
+- 分类: 线下活动

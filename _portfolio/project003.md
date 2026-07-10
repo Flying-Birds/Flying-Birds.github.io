@@ -4,7 +4,7 @@ subtitle: 一路上的包容、沟通、理解、扶持，让 “我” 变成 �
 alt: 
 
 caption:
-  title: Episode 3
+  title: 第 3 期
   subtitle: 亲密解忧局
   thumbnail: assets/img/portfolio/03-thumbnail.png
 ---
@@ -49,5 +49,5 @@ caption:
 仅此而已。
 
 {:.list-inline}
-- Date: 20 Sep 2025
-- Category: Offline Activities
+- 日期: 2025年9月20日
+- 分类: 线下活动

@@ -4,7 +4,7 @@ subtitle: 在彼此相伴的时光里，与自己温柔和解。
 alt: 
 
 caption:
-  title: Episode 7
+  title: 第 7 期
   subtitle: 互助会第一期
   thumbnail: assets/img/portfolio/07-thumbnail.png
 ---
@@ -35,5 +35,5 @@ caption:
 
 
 {:.list-inline}
-- Date: 13 Dec 2025
-- Category: Offline Activities
+- 日期: 2025年12月13日
+- 分类: 线下活动

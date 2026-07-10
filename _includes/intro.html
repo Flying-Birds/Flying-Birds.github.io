@@ -1,45 +1,25 @@
 <!-- Intro -->
-{% if site.locale and site.locale != "" and site.locale != nil %}
-<section class="page-section" id="{{ site.data.sitetext[site.locale].intro.section | default: "intro" }}">
+{% assign current_locale = page.locale | default: site.locale %}
+{% assign text = site.data.sitetext[current_locale] | default: site.data.sitetext[site.locale] %}
+
+<section class="page-section" id="{{ text.intro.section | default: "intro" }}">
   <div class="container">
     <div class="row">
       <div class="col-lg-12 text-center">
-        <h2 class="section-heading text-uppercase">{{ site.data.sitetext[site.locale].intro.title | default: "About Us" }}</h2>
-        <h3 class="section-subheading text-muted">{{ site.data.sitetext[site.locale].intro.text | default: "" }}</h3>
+        <h2 class="section-heading text-uppercase">{{ text.intro.title | default: "About Us" }}</h2>
+        <h3 class="section-subheading text-muted">{{ text.intro.text | default: "" }}</h3>
       </div>
     </div>
     <div class="row">
       <div class="col-lg-6">
         <div style="text-align: center;">
-          <img class="img-fluid" src="{{ site.data.sitetext[site.locale].intro.image }}" alt="" style="max-width: 70%; height: auto;">
+          <img class="img-fluid" src="{{ text.intro.image }}" alt="" style="max-width: 70%; height: auto;">
         </div>
       </div>
       <div class="col-lg-6">
-        <p>{{ site.data.sitetext[site.locale].intro.description | default: "Your description here." }}</p>
+        <p>{{ text.intro.description | default: "Your description here." }}</p>
       </div>
     </div>
   </div>
 </section>
-{% else %}
-<section class="page-section" id="{{ site.data.sitetext.intro.section | default: "intro" }}">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-12 text-center">
-        <h2 class="section-heading text-uppercase">{{ site.data.sitetext.intro.title | default: "About Us" }}</h2>
-        <h3 class="section-subheading text-muted">{{ site.data.sitetext.intro.text | default: "" }}</h3>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-lg-6">
-        <div style="text-align: center;"></div>
-          <img class="img-fluid" src="{{ site.data.sitetext.intro.image }}" alt="" style="max-width: 70%; height: auto; display: block; margin: auto;">
-        </div>
-      </div>
-      <div class="col-lg-6">
-        <p>{{ site.data.sitetext.intro.description | default: "Your description here." }}</p>
-      </div>
-    </div>
-  </div>
-</section>
-{% endif %}
 <!-- End Intro -->

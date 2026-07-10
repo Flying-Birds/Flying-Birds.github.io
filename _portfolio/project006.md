@@ -4,7 +4,7 @@ subtitle: 善良、温暖与爱意，永远是循环往复的。
 alt: 
 
 caption:
-  title: Episode 6
+  title: 第 6 期
   subtitle: Lin欢迎会
   thumbnail: assets/img/portfolio/06-thumbnail.png
 ---
@@ -47,5 +47,5 @@ caption:
 我愿这里成为一座温柔的安全岛屿：让我们这群普通人，互为依靠、双向治愈，以陪伴消解孤独，以温柔对抗内耗，往后彼此搀扶，稳步前行。
 
 {:.list-inline}
-- Date: 15 Nov 2025
-- Category: Offline Activities
+- 日期: 2025年11月15日
+- 分类: 线下活动

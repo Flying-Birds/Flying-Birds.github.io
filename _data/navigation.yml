@@ -32,23 +32,21 @@ en-GB:
 en-AU:
   <<: *DEFAULT_EN
 
-# Spanish
+# Chinese
 # -------
-es: &DEFAULT_ES
+zh: &DEFAULT_ZH
   nav:
-    - title: "Servicios"
-      section: servicios
-    - title: "Portafolio"
-      section: portafolio
-    - title: "Cronología"
-      section: cronologia
-    - title: "Equipo"
-      section: equipo
-    - title: "Contáctenos"
-      section: contacto
-    - title: "Fuente de la plantilla"
-      url: https://github.com/raviriley/agency-jekyll-theme/
-es-ES:
-  <<: *DEFAULT_ES
-es-CO:
-  <<: *DEFAULT_ES
+    - title: "每月推荐"
+      section: services
+    - title: "活动回顾"
+      section: portfolio
+    - title: "时间线"
+      section: timeline
+    - title: "团队"
+      section: team
+    - title: "联系"
+      section: contact
+ch:
+  <<: *DEFAULT_ZH
+zh-CN:
+  <<: *DEFAULT_ZH

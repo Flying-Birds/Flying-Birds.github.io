@@ -4,7 +4,7 @@ subtitle: 在相遇与离别中成长。
 alt: 
 
 caption:
-  title: Episode 4
+  title: 第 4 期
   subtitle: 国庆欢唱会
   thumbnail: assets/img/portfolio/04-thumbnail.png
 ---
@@ -46,5 +46,5 @@ caption:
 把每一次相遇都当成上天送来的礼物，把每一段同行的时光都好好珍藏在心底。
 
 {:.list-inline}
-- Date: 02 Oct 2025
-- Category: Offline Activities
+- 日期: 2025年10月2日
+- 分类: 线下活动

@@ -4,7 +4,7 @@ subtitle: 命途千万，愿你无悔一生。
 alt: 
 
 caption:
-  title: Episode 2
+  title: 第 2 期
   subtitle: 命运的求索
   thumbnail: assets/img/portfolio/02-thumbnail.png
 ---
@@ -49,6 +49,6 @@ caption:
 愿你踏过的每一步，都成心之所向；走过的这一生，终能无怨无悔。
 
 {:.list-inline}
-- Date: 19 July 2025
-- Category: Offline Activities
+- 日期: 2025年7月19日
+- 分类: 线下活动
 
