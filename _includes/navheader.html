@@ -5,7 +5,7 @@
 
 <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
   <div class="container">
-    <a class="navbar-brand js-scroll-trigger" href="#page-top">
+    <a class="navbar-brand{% unless page.review_page %} js-scroll-trigger{% endunless %}" href="{% if page.home_url %}{{ page.home_url | relative_url }}{% else %}#page-top{% endif %}">
       {% if site.logo.path %}
       <img src="{{ site.logo.path | replace: "\\", "/" }}" alt="{{ site.title }}" style="height: {{ site.logo.height | default: 52 }}px;">
       {% else %}
@@ -13,9 +13,9 @@
       {% endif %}
     </a>
     <div id="site-language-toggle" style="position: fixed; top: 1.35rem; right: 1.5rem; left: auto; z-index: 3000; display: flex; align-items: center; gap: 0.35rem; font-family: Montserrat, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; font-size: 0.9rem; font-weight: 700; letter-spacing: 0.0625em; text-transform: uppercase; white-space: nowrap;">
-      <a class="{% if current_language == 'zh' %}active{% endif %}" href="{{ '/zh.html' | relative_url }}" lang="zh">中文</a>
+      <a class="{% if current_language == 'zh' %}active{% endif %}" href="{{ page.zh_url | default: '/zh.html' | relative_url }}" lang="zh">中文</a>
       <span class="language-divider">/</span>
-      <a class="{% if current_language == 'en' %}active{% endif %}" href="{{ '/index.html' | relative_url }}" lang="en">EN</a>
+      <a class="{% if current_language == 'en' %}active{% endif %}" href="{{ page.en_url | default: '/index.html' | relative_url }}" lang="en">EN</a>
     </div>
     <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
       Menu
@@ -26,9 +26,9 @@
         {% for link in navigation.nav %}
         <li class="nav-item">
           {% if link.url %}
-          <a class="nav-link" href="{{ link.url }}">{{ link.title }}</a>
+          <a class="nav-link" href="{{ link.url | relative_url }}">{{ link.title }}</a>
           {% else %}
-          <a class="nav-link js-scroll-trigger" href="#{{ link.section }}">{{ link.title }}</a>
+          <a class="nav-link{% unless page.review_page %} js-scroll-trigger{% endunless %}" href="{% if page.home_url %}{{ page.home_url | relative_url }}{% endif %}#{{ link.section }}">{{ link.title }}</a>
           {% endif %}
         </li>
         {% endfor %}
@@ -37,6 +37,7 @@
   </div>
 </nav>
 
+{% unless page.review_page %}
 <header class="masthead">
   <div class="container">
     <div class="intro-text">
@@ -46,6 +47,7 @@
     </div>
   </div>
 </header>
+{% endunless %}
 
 <style>
   @media (min-width: 992px) {
@@ -75,4 +77,10 @@
       font-size: 0.8rem;
     }
   }
+
+  {% if page.review_page %}
+  body {
+    padding-top: 70px;
+  }
+  {% endif %}
 </style>

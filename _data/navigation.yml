@@ -14,7 +14,7 @@ en: &DEFAULT_EN
     - title: "Recommendation"
       section: services
     - title: "Review"
-      section: portfolio
+      url: /reviews.html
     - title: "About"
       section: timeline
     - title: "Team"
@@ -39,7 +39,7 @@ zh: &DEFAULT_ZH
     - title: "每月推荐"
       section: services
     - title: "活动回顾"
-      section: portfolio
+      url: /zh-reviews.html
     - title: "时间线"
       section: timeline
     - title: "团队"
