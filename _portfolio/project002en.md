@@ -46,7 +46,7 @@ On the final slide of Wanting’s presentation stood a single line, his gift to 
 
 A faint fragrance of locust blossom drifted through the window, as though softly answering him. The flowers never fail their season; once they bloom, they leave the path fragrant. Every assured step we take will likewise shape a landscape uniquely ours among fate’s countless roads.
 
-May every step carry you toward what your heart desires, and may the life you have travelled leave you without regret.
+May every step carry you towards what your heart desires, and may the life you have travelled leave you without regret.
 
 {:.list-inline}
 - Date: 19 July 2025

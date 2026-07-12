@@ -24,7 +24,7 @@ The death of a relative could leave me grieving for years. After a breakup, I re
 
 Now, after passing through one loss after another, I see that I had been trying to hold relationships in place through anxiety and people-pleasing. I had forgotten that genuine connection is never secured by binding someone with the fear of losing them.
 
-Little by little, I began moving from anxious attachment toward a more secure way of relating. I cannot claim that all anxiety has vanished; memories of those who left can still taste bittersweet. Yet I no longer resent the people or experiences that once unsettled me. Instead, I feel a deep gratitude. Bereavement taught me to cherish those who remain. A relationship’s end taught me that love requires mutual acceptance. The departure of friends taught me that “goodbye” may also carry the promise, “until we meet again.”
+Little by little, I began moving from anxious attachment towards a more secure way of relating. I cannot claim that all anxiety has vanished; memories of those who left can still taste bittersweet. Yet I no longer resent the people or experiences that once unsettled me. Instead, I feel a deep gratitude. Bereavement taught me to cherish those who remain. A relationship’s end taught me that love requires mutual acceptance. The departure of friends taught me that “goodbye” may also carry the promise, “until we meet again.”
 
 More importantly, this growth taught me to live in the present. I no longer cling to the question, “Why must they leave?” I cherish the people still beside me—the friends who share their hearts with me and laugh with me about life—and I have become better able to receive the small, warm moments hidden in our time together.
 

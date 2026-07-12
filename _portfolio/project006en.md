@@ -40,7 +40,7 @@ Many friends also wrote to me privately. They recommended trusted doctors and bo
 
 These small, luminous moments brought tears to my eyes. I finally understood that there truly are people willing to make room for our emotions. We do not have to force ourselves to be strong at all times, and vulnerability is never mere self-indulgence. We need not perform the role of the composed, mature adult every hour of every day. We are ordinary people who also need to be understood, protected and emotionally held.
 
-The first step toward genuine maturity is to face our emotions honestly, recognise our vulnerability, and accept and soothe the self who is passing through a low season.
+The first step towards genuine maturity is to face our emotions honestly, recognise our vulnerability, and accept and soothe the self who is passing through a low season.
 
 Nor do healing and warmth move in only one direction. On the evening of the event, a friend came to confide in me. Having just been replenished by everyone’s kindness, I still carried enough warmth to hold his disappointment in turn.
 

@@ -59,9 +59,9 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
-      - title: "Where It All Began: <br> The First Step Toward a Brighter Future"
+      - title: "Where It All Began: <br> The First Step Towards a Brighter Future"
         year: "2021.04.27"
-        desc: "On this day, moved by a deep concern for the education of young people in remote communities, we took our first step. Through steady, heartfelt efforts, we hope to open a window onto the wider world for these children—giving knowledge wings, letting broader horizons light the way, and helping them grow toward the sun as they pursue their dreams."
+        desc: "On this day, moved by a deep concern for the education of young people in remote communities, we took our first step. Through steady, heartfelt efforts, we hope to open a window onto the wider world for these children—giving knowledge wings, letting broader horizons light the way, and helping them grow towards the sun as they pursue their dreams."
         image: assets/img/timeline/1.jpg
         alt:
       - title: "The Support Group Sets Sail: <br> A Haven for the Heart"
@@ -71,7 +71,7 @@ en: &DEFAULT_EN
         alt:
       - title: "From One to Two: <br> Stronger Through Every Storm"
         year: "2025.06.14"
-        desc: "Rain poured outside, while the café glowed with warmth. What began as one person quietly honoring a promise became two people walking beneath the same umbrella, lending new conviction to our charitable journey. As I watched the rain, I thought: however fierce the storm, two people together can hold up a patch of clear sky."
+        desc: "Rain poured outside, while the café glowed with warmth. What began as one person quietly honouring a promise became two people walking beneath the same umbrella, lending new conviction to our charitable journey. As I watched the rain, I thought: however fierce the storm, two people together can hold up a patch of clear sky."
         image: assets/img/timeline/3.jpg
         alt:  
       - title: "Kindred Spirits Unite: <br> Building a Shared Dream of Service"
@@ -114,7 +114,7 @@ en: &DEFAULT_EN
     section: team
     people:
       - name: "Yazhuo Guan"
-        role: "Organizer"
+        role: "Organiser"
         category: organizer
         image: assets/img/team/yazhuo.jpg
         social:

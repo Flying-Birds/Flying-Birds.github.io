@@ -30,7 +30,7 @@ My unease stayed with me along the way. I may be a consummate extrovert, but I a
 
 The rain continued, an unbroken curtain beyond the car window. Its steady drumming carried my thoughts farther and farther as I tried to imagine the stranger I was about to meet. Only when the driver said, “We’re here,” did I return to the present.
 
-I stepped out and picked my way through puddles in the hutong. The sign of Penghao Theatre glowed warmly through the rain. I told the receptionist, “I’m here to run an event. Wanting booked the venue.” I followed the direction of her gesture toward the back room. A young man in combat boots walked out. With delicate features, clear pale skin and a slender, almost fragile frame, he looked like a boy. He met my eyes with a bright gaze and said softly, “I’m Wanting.”
+I stepped out and picked my way through puddles in the hutong. The sign of Penghao Theatre glowed warmly through the rain. I told the receptionist, “I’m here to run an event. Wanting booked the venue.” I followed the direction of her gesture towards the back room. A young man in combat boots walked out. With delicate features, clear pale skin and a slender, almost fragile frame, he looked like a boy. He met my eyes with a bright gaze and said softly, “I’m Wanting.”
 
 For a moment, I simply stared, my umbrella still dripping in my hand. He was nothing like the person I had imagined.
 

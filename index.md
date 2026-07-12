@@ -1,6 +1,6 @@
 ---
 layout: home
-locale: en-US
+locale: en-GB
 language: en
 alternate_url: zh.html
 ---
