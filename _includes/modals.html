@@ -54,3 +54,28 @@
 </div>
 {% endif %}
 {% endfor %}
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    if (!window.jQuery) return;
+
+    window.jQuery(".portfolio-modal")
+      .on("shown.bs.modal", function () {
+        const audio = this.querySelector("audio");
+        if (!audio) return;
+
+        const playAttempt = audio.play();
+        if (playAttempt && typeof playAttempt.catch === "function") {
+          playAttempt.catch(function () {
+            // Some browsers may still require a direct click on the audio control.
+          });
+        }
+      })
+      .on("hide.bs.modal", function () {
+        this.querySelectorAll("audio").forEach(function (audio) {
+          audio.pause();
+          audio.currentTime = 0;
+        });
+      });
+  });
+</script>
