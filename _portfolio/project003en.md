@@ -1,7 +1,7 @@
 ---
 language: en
 title: The Relationship Clinic
-subtitle: Through acceptance, communication, understanding and support, “I” becomes “we.”
+subtitle: Acceptance, communication, understanding and support bind two independent hearts together, transforming “I” into “we”.
 alt:
 
 caption:
@@ -42,7 +42,7 @@ Love is the hand that tucks the blanket around you late at night, the glass of w
 
 Neither life nor love is always smooth. True love is not the ability to preserve forever the thrill of a first meeting. It is choosing, after wind and rain, to keep holding the other person’s hand and walk on together.
 
-It begins with the splendour of fireworks, then settles amid meals, chores and ordinary days into a quiet, enduring warmth. Acceptance, communication, understanding and support bind two independent hearts together, transforming “I” into “we.”
+It begins with the splendour of fireworks, then settles amid meals, chores and ordinary days into a quiet, enduring warmth. Acceptance, communication, understanding and support bind two independent hearts together, transforming “I” into “we”.
 
 So if you ask me what love is, my answer is this:
 
