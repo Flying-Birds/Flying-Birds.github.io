@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Recommendation"
-      section: services
+    - title: "Next Event"
+      section: intro
     - title: "Review"
       url: /reviews.html
     - title: "About"
@@ -36,8 +36,8 @@ en-AU:
 # -------
 zh: &DEFAULT_ZH
   nav:
-    - title: "每月推荐"
-      section: services
+    - title: "下次活动预告"
+      section: intro
     - title: "活动回顾"
       url: /zh-reviews.html
     - title: "时间线"
