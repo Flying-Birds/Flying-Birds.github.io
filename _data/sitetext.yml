@@ -11,45 +11,39 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Preview of Next Event
-    text: Toxic Parents
+    title: Preview of the Twelfth Event
+    text: Cognitive Awakening
     button: Read more and join us
     buttonlink: "#intro"
 
 
   intro:
-    title: "Toxic Parents"
-    text: "Overcoming Their Hurtful Legacy and Reclaiming Your Life"
+    title: '<a href="https://book.douban.com/subject/35193035/">Cognitive Awakening</a>'
+    text: "Awaken the Inner Drive for Personal Transformation"
     section: intro 
-    image: assets/img/posters/episode_5.png
-    description: "“原生家庭” 这四个字，似乎自带一种沉重的分量。<br>
-                  每次提起，总有人会瞬间沉默 —— 那些被忽视的委屈、未被回应的期待、悄悄压抑的情绪，连同童年里不愿触碰的创伤记忆，会瞬间翻涌上来。
-                  我们都知道，强迫自己回头面对那些过往，是一件需要勇气，甚至会伴随痛苦的事。<br>
-                  但就像《原生家庭》这本书告诉我们的：直面伤痛，从来不是为了沉溺过去，而是为了挣脱束缚。<br>
-                  当我们终于愿意撕开那层 “难以言说” 的伪装，当我们在书中找到与自己相似的困境，当我们和有着相似心境的人一起拆解 “原生家庭” 带来的影响 —— 内心被压抑的力量会慢慢苏醒，隐藏多年的真实自我，也会在理解与接纳中逐渐解放。<br>\
-                  这场分享会，我们不想贩卖焦虑，也不会空谈治愈。我们只想和你一起翻开《原生家庭》的书页：<br>
-                  - 试着分辨哪些影响是过去的枷锁；<br>
-                  - 聊聊那些藏在 “家庭” 标签下的真实感受；<br>
-                  - 找到与原生家庭和解、与自己和解的可能，慢慢活成那个本就富有爱心、独一无二的自己。<br>
-                  如果你也曾被 “原生家庭” 的话题牵动心绪，如果你渴望在文字与交流中找到力量，欢迎来赴这场关于“自我救赎”的约会。在这里，你的每一份感受都值得被看见，每一步成长都值得被肯定。"
+    image: "assets/img/posters/2026.07.25 认知觉醒.jpg"
+    description: "This is a personal-growth methodology with the power to stand the test of time. By exploring the principles behind the brain’s structure, the subconscious, and metacognition, you will come to see yourself clearly. By understanding how deep learning, connection, and feedback work, you will gain insight into how to truly accomplish things.<br><br>
+                  When we do not understand ourselves, we remain constrained by our primitive instincts, which often causes great pain. Once we understand how the brain works, however, we can observe and guide ourselves. We can use the power of cognition to overcome our instincts, develop lasting and clear inner motivation, and free ourselves from most of life’s suffering.<br><br>
+                  The clearer a person’s cognition, the more resolute their actions become. For this event, we have invited Cheese from China University of Political Science and Law to use this book to help us explore, one by one:<br><br>
+                  Why are we always eager for quick results and inclined to avoid difficulty?<br><br>
+                  Does patience simply mean gritting our teeth and persevering at all costs?<br><br>
+                  How can we move beyond doing things with only short-lived enthusiasm or bursts of motivation?<br><br>
+                  How can we stay intensely focused, reduce anxiety, and improve our ability to learn?"
    
   services:
     title: "Monthly Recommendation"
     text: "Selections for Extensive Reading"
     section: services
     list:
-      - title: "为何家会伤人"
-        url: https://book.douban.com/subject/30359352/
-        desc: "孩子天然是乐于满足父母的，我们这个过于讲孝道的社会常常忽视这一点，而片面强调父母的伟大与正确，却忽视了孩子对父母的天然的爱，一样伟大。"
-        image: assets/img/ref/MrsDalloway.jpg
-      - title: "Educated"
-        url: https://book.douban.com/subject/33440205/
-        desc: "无论你成为谁，无论你把自己变成了什么，那就是你本来的样子。它一直在你心中。不是在剑桥，而是在于你自已。你就是黄金。回到杨百翰大学，甚至回到你家乡的那座从地山，都不会改变你是谁。那可能会改变别人对你的看法，甚至也会改变你对自己的看法一即便是就金，在某些光线下也会显得晦暗， 但那只是错觉。金子一直是金子。"
-        image: assets/img/ref/TheVegetarian.jpg
-      - title: "嫌われる勇気"
-        url: https://book.douban.com/subject/26369699/
-        desc: "人根本不可能一个人活着，只有在社会性的环境之下才能成为“个人”。因此，阿德勒心理学把作为个人的“自立”和在社会中的“和谐”作为重大目标。那么，如何才能实现这些目标呢？阿德勒说：“在这里必须要克服‘工作’‘交友’和‘爱’这三大课题。”"
-        image: assets/img/ref/TotheLighthouse.jpg
+      - title: "I May Be Wrong"
+        url: "https://www.amazon.com/I-May-Be-Wrong/dp/1526644843/ref=sr_1_1?crid=2G1KUIP27XACS&dib=eyJ2IjoiMSJ9.YZYH684MTRWd9XR02HwE65WNYyO1-OQrJx-_0QSs1fo_F5PzI6XXaOiHt7w3eXAKQMCAfzMozdEXFkwhLjdb7VzPLWJDQ0p_4Hx5Az6reEa0FDQSC1X13B5E21a2t84Ly1t2eJBEMYSJuUUFPcqpY7ahvZR3umDCCemtWpZtCwhLhRNBtj3GYwRmtCZZPS_vy36vXfz_WMV86PBlTMzQ81wUBi98xV_Khm6o-hYthNU.ySB-zxsNV2NIUEhlhzi_1seU5WboBKcDEE2hqjt7IRQ&dib_tag=se&keywords=I+may+be+wrong&qid=1783844163&s=books&sprefix=i+may+be+wro%2Cstripbooks%2C523&sr=1-1"
+        image: assets/img/ref/I may be wrong.jpg
+      - title: "The Surrender Experiment"
+        url: "https://www.amazon.com/dp/B00YOJ9RV6/?bestFormat=true&k=the%20surrender%20experiment%20by%20michael%20singer&ref_=nb_sb_ss_w_scx-ent-bk-ww_k0_1_15_de&crid=35PI3NPUEHD7X&sprefix=surrender%20exper"
+        image: assets/img/ref/The Surrender Experiment.jpg
+      - title: "Why Buddhism Is True"
+        url: "https://www.amazon.com/dp/1439195463/?bestFormat=true&k=why%20buddhism%20is%20true&ref_=nb_sb_ss_w_scx-ent-bk-ww_k0_1_6_de&crid=2X5JJVV14RBQ&sprefix=why%20bu"
+        image: assets/img/ref/Why Buddhism is True.jpg
 
   portfolio:
     title: "Reviews"
@@ -60,29 +54,29 @@ en: &DEFAULT_EN
 
   timeline:
     title: "Timeline"
-    text: "这是一段关于爱与坚持的旅程，邀请你一起见证我们的成长与改变。"
+    text: "A journey shaped by love and perseverance—come witness how we have grown and changed along the way."
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "初心启程： <br> 点亮未来的第一步"
+      - title: "Where It All Began: <br> The First Step Toward a Brighter Future"
         year: "2021.04.27"
-        desc: "这一天，我们怀着对偏远地区青少年教育的深切关怀，正式迈出了第一步。我们希望通过点滴努力，为孩子们打开一扇望向世界的窗，让知识化作翅膀，让视野照亮前路，陪伴他们向阳生长，追逐梦想。"
+        desc: "On this day, moved by a deep concern for the education of young people in remote communities, we took our first step. Through steady, heartfelt efforts, we hope to open a window onto the wider world for these children—giving knowledge wings, letting broader horizons light the way, and helping them grow toward the sun as they pursue their dreams."
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "互助会启航： <br> 搭建心灵的港湾"
+      - title: "The Support Group Sets Sail: <br> A Haven for the Heart"
         year: "2025.04.21"
-        desc: "关注到大家对心理支持的迫切需求，我们发起了互助会。在这里，每一份倾诉都被认真倾听，每一次陪伴都充满力量。我们用理解消融隔阂，让温暖在心灵间静静流淌，成为彼此最坚实的后盾。"
+        desc: "Recognizing the urgent need for emotional support, we founded our peer support group. Here, every story is heard with care, and every act of companionship brings strength. Through understanding, we bridge the distance between us and let warmth flow quietly from heart to heart, becoming a steadfast source of support for one another."
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "从一人到两人： <br> 风雨同行的力量"
+      - title: "From One to Two: <br> Stronger Through Every Storm"
         year: "2025.06.14"
-        desc: "窗外雨势正浓，咖啡馆内暖意融融。从独自践行初心，到两个人的撑伞同行，这份公益之路从此多了份笃定。看着雨幕，我想，再大的风雨，两个人都能撑起一片晴天。"
+        desc: "Rain poured outside, while the café glowed with warmth. What began as one person quietly honoring a promise became two people walking beneath the same umbrella, lending new conviction to our charitable journey. As I watched the rain, I thought: however fierce the storm, two people together can hold up a patch of clear sky."
         image: assets/img/timeline/3.jpg
         alt:  
-      - title: "伙伴集结成团： <br> 携手共筑公益梦"
+      - title: "Kindred Spirits Unite: <br> Building a Shared Dream of Service"
         year: "2025.09.22"
-        desc: "志同道合的伙伴们正式集结成团队。凭借各自的专长与热忱，我们携手前行，希望将这份公益事业做得更扎实、更深远，让更多人感受到这份努力带来的力量。"
+        desc: "United by a common purpose, a group of like-minded partners officially came together as a team. Bringing our individual strengths and shared passion, we now move forward side by side—working to make this cause stronger, more enduring, and capable of touching even more lives."
         image: assets/img/timeline/4.jpg
         alt: 
 
@@ -92,7 +86,7 @@ en: &DEFAULT_EN
 
   about:
     title: "Our Story"
-    text: "从最初的梦想出发，我们用行动书写了属于我们的故事。"
+    text: "What began as a dream has become a story we continue to write through action."
     section: about
 
   # clients:
@@ -115,8 +109,8 @@ en: &DEFAULT_EN
 
   team:
     title: "OUR AMAZING TEAM"
-    text: "从初心到行动，我们携手前行，每一个成员的努力都让这段旅程更加精彩。"
-    subtext: "我们因共同的信念而集结，用团队的力量为他人点亮希望与温暖。每一个成员都是故事的主角，他们的努力让这段旅程更加精彩，也让我们离梦想更近一步。"
+    text: "From a shared purpose to meaningful action, we move forward together—and every member makes the journey richer."
+    subtext: "A common belief brought us together; the strength of our team allows us to kindle hope and warmth in the lives of others. Every member is at the heart of our story, and each contribution makes the journey more remarkable while bringing our dream one step closer."
     section: team
     people:
       - name: "Yazhuo Guan"
@@ -134,90 +128,34 @@ en: &DEFAULT_EN
         role: "Lead Developer"
         category: core member
         image: assets/img/team/xiaolu.jpg
-        # social:
-        #   - url: 
-        #     icon: fab fa-twitter
-        #   - url: 
-        #     icon: fab fa-facebook-f
-        #   - url: 
-        #     icon: fab fa-linkedin-in
       - name: "Zhiguan Wang"
         role: "Lead Developer"
         category: core member
         image: assets/img/team/zhiguan.jpg
-        # social:
-        #   - url: 
-        #     icon: fab fa-twitter
-        #   - url: 
-        #     icon: fab fa-facebook-f
-        #   - url: 
-        #     icon: fab fa-linkedin-in
       - name: "Jiushi Wang"
         role: "Lead Developer"
         category: core member
         image: assets/img/team/jiushi.jpg
-        # social:
-        #   - url: 
-        #     icon: fab fa-twitter
-        #   - url: 
-        #     icon: fab fa-facebook-f
-        #   - url: 
-        #     icon: fab fa-linkedin-in
       - name: "Lin"
         role: "Core Member"
         category: core member
         image: assets/img/team/lin.jpg
-        # social:
-        #   - url: 
-        #     icon: fab fa-twitter
-        #   - url: 
-        #     icon: fab fa-facebook-f
-        #   - url: 
-        #     icon: fab fa-linkedin-in
       - name: "Cheese"
         role: "Core Member"
         category: core member
         image: assets/img/team/jia.jpg
-        # social:
-        #   - url: 
-        #     icon: fab fa-twitter
-        #   - url: 
-        #     icon: fab fa-facebook-f
-        #   - url: 
-        #     icon: fab fa-linkedin-in
       - name: "Bin Jiang"
         role: "Core Member"
         category: core member
         image: assets/img/team/jiang.jpg
-        # social:
-        #   - url: 
-        #     icon: fab fa-twitter
-        #   - url: 
-        #     icon: fab fa-facebook-f
-        #   - url: 
-        #     icon: fab fa-linkedin-in
       - name: "Sponge Bob"
         role: "Core Member"
         category: core member
         image: assets/img/team/sponge.jpg
-        # social:
-        #   - url: 
-        #     icon: fab fa-twitter
-        #   - url: 
-        #     icon: fab fa-facebook-f
-        #   - url: 
-        #     icon: fab fa-linkedin-in
       - name: "Jialuo"
         role: "Core Member"
         category: core member
         image: assets/img/team/jialuo.jpg
-        # social:
-        #   - url: 
-        #     icon: fab fa-twitter
-        #   - url: 
-        #     icon: fab fa-facebook-f
-        #   - url: 
-        #     icon: fab fa-linkedin-in
             
 
   contact:
@@ -253,39 +191,38 @@ en: &DEFAULT_EN
 # -------
 ch: &DEFAULT_ZH
   header:
-    title: 第四期活动预告
-    text: 原生家庭
+    title: 第十二期活动预告
+    text: 认知觉醒
     button: 查看更多
     buttonlink: "#intro"
 
   intro:
-    title: "原生家庭"
-    text: "疗愈伤痛，重拾人生"
+    title: '<a href="https://book.douban.com/subject/35193035/">认知觉醒</a>'
+    text: "开启自我改变的原动力"
     section: intro 
-    image: assets/img/posters/episode_5.png
-    description: "“原生家庭” 这四个字，似乎自带一种沉重的分量。<br>
-                  每次提起，总有人会瞬间沉默 —— 那些被忽视的委屈、未被回应的期待、悄悄压抑的情绪，连同童年里不愿触碰的创伤记忆，会瞬间翻涌上来。
-                  我们都知道，强迫自己回头面对那些过往，是一件需要勇气，甚至会伴随痛苦的事。<br>
-                  但就像《原生家庭》这本书告诉我们的：直面伤痛，从来不是为了沉溺过去，而是为了挣脱束缚。<br>
-                  如果你也曾被 “原生家庭” 的话题牵动心绪，如果你渴望在文字与交流中找到力量，欢迎来赴这场关于“自我救赎”的约会。在这里，你的每一份感受都值得被看见，每一步成长都值得被肯定。"
+    image: "assets/img/posters/2026.07.25 认知觉醒.jpg"
+    description: "这是一部可以穿透时间的个人成长方法论。通过“大脑构造、潜意识、元认知”等思维规律，你将真正看清自己；通过“深度学习、关联、反馈”事物规律，你将洞悉如何真正成事！<br><br>
+                  如果对自己不了解，我们就会被人的原始天性束缚，这往往会让我们感到很痛苦。然而，如果了解大脑知识，我们就可以观察并指导自己，运用认知的力量去克服天性，从而获得长久而清晰的内在动力，让我们告别绝大多数人生痛苦。<br><br>
+                  一个人的认知越清晰，行动就越坚定。本期活动我们邀请到来自中国政法大学的奶酪，通过这本书来帮我们一一拆解：<br><br>
+                  为什么我们做事总是急于求成、避难趋易？<br><br>
+                  所谓耐心，就是要“咬牙坚持、死磕到底”吗？<br><br>
+                  如何彻底告别用“三分钟热情”和“打鸡血”的方式做事？<br><br>
+                  如何保持极度专注？如何消除焦虑？如何提高学习能力？……"
 
   services:
     title: "每月推荐"
     text: "更多推荐阅读书目"
     section: services
     list:
-      - title: "为何家会伤人"
-        url: https://book.douban.com/subject/30359352/
-        desc: "孩子天然是乐于满足父母的，我们这个过于讲孝道的社会常常忽视这一点，而片面强调父母的伟大与正确，却忽视了孩子对父母的天然的爱，一样伟大。"
-        image: assets/img/ref/MrsDalloway.jpg
-      - title: "你当像鸟飞往你的山"
-        url: https://book.douban.com/subject/33440205/
-        desc: "无论你成为谁，无论你把自己变成了什么，那就是你本来的样子。它一直在你心中。不是在剑桥，而是在于你自已。你就是黄金。回到杨百翰大学，甚至回到你家乡的那座从地山，都不会改变你是谁。那可能会改变别人对你的看法，甚至也会改变你对自己的看法一即便是就金，在某些光线下也会显得晦暗， 但那只是错觉。金子一直是金子。"
-        image: assets/img/ref/TheVegetarian.jpg
-      - title: "被讨厌的勇气"
-        url: https://book.douban.com/subject/26369699/
-        desc: "人根本不可能一个人活着，只有在社会性的环境之下才能成为“个人”。因此，阿德勒心理学把作为个人的“自立”和在社会中的“和谐”作为重大目标。那么，如何才能实现这些目标呢？阿德勒说：“在这里必须要克服‘工作’‘交友’和‘爱’这三大课题。”"
-        image: assets/img/ref/TotheLighthouse.jpg
+      - title: "我可能错了"
+        url: https://book.douban.com/subject/37021120/
+        image: assets/img/ref/我可能错了.jpg
+      - title: "臣服实验"
+        url: https://book.douban.com/subject/30384422/
+        image: assets/img/ref/臣服实验.jpg
+      - title: "洞见"
+        url: https://book.douban.com/subject/35140470/
+        image: assets/img/ref/洞见.jpg
 
   portfolio:
     title: "活动回顾"
@@ -370,90 +307,34 @@ ch: &DEFAULT_ZH
         role: "开发负责人"
         category: core member
         image: assets/img/team/xiaolu.jpg
-        # social:
-        #   - url: 
-        #     icon: fab fa-twitter
-        #   - url: 
-        #     icon: fab fa-facebook-f
-        #   - url: 
-        #     icon: fab fa-linkedin-in
       - name: "Zhiguan Wang"
         role: "开发负责人"
         category: core member
         image: assets/img/team/zhiguan.jpg
-        # social:
-        #   - url: 
-        #     icon: fab fa-twitter
-        #   - url: 
-        #     icon: fab fa-facebook-f
-        #   - url: 
-        #     icon: fab fa-linkedin-in
       - name: "Jiushi Wang"
         role: "开发负责人"
         category: core member
         image: assets/img/team/jiushi.jpg
-        # social:
-        #   - url: 
-        #     icon: fab fa-twitter
-        #   - url: 
-        #     icon: fab fa-facebook-f
-        #   - url: 
-        #     icon: fab fa-linkedin-in
       - name: "Lin"
         role: "核心成员"
         category: core member
         image: assets/img/team/lin.jpg
-        # social:
-        #   - url: 
-        #     icon: fab fa-twitter
-        #   - url: 
-        #     icon: fab fa-facebook-f
-        #   - url: 
-        #     icon: fab fa-linkedin-in
       - name: "Cheese"
         role: "核心成员"
         category: core member
         image: assets/img/team/jia.jpg
-        # social:
-        #   - url: 
-        #     icon: fab fa-twitter
-        #   - url: 
-        #     icon: fab fa-facebook-f
-        #   - url: 
-        #     icon: fab fa-linkedin-in
       - name: "Bin Jiang"
         role: "核心成员"
         category: core member
         image: assets/img/team/jiang.jpg
-        # social:
-        #   - url: 
-        #     icon: fab fa-twitter
-        #   - url: 
-        #     icon: fab fa-facebook-f
-        #   - url: 
-        #     icon: fab fa-linkedin-in
       - name: "Sponge Bob"
         role: "核心成员"
         category: core member
         image: assets/img/team/sponge.jpg
-        # social:
-        #   - url: 
-        #     icon: fab fa-twitter
-        #   - url: 
-        #     icon: fab fa-facebook-f
-        #   - url: 
-        #     icon: fab fa-linkedin-in
       - name: "Jialuo"
         role: "核心成员"
         category: core member
         image: assets/img/team/jialuo.jpg
-        # social:
-        #   - url: 
-        #     icon: fab fa-twitter
-        #   - url: 
-        #     icon: fab fa-facebook-f
-        #   - url: 
-        #     icon: fab fa-linkedin-in
 
   contact:
     title: "联系我们"
@@ -469,20 +350,6 @@ ch: &DEFAULT_ZH
     message-validation: "请输入留言内容。"
     subject: "联系表单提交"
     submit: "发送留言"
-
-  # footer:
-  #   legal: "Política de Privacidad"
-  #   social:
-  #     - url: https://twitter.com
-  #       icon: "fab fa-twitter"
-  #     - url: https://facebook.com
-  #       icon: "fab fa-facebook-f"
-  #     - url: https://linkedin.com
-  #       icon: "fab fa-linkedin-in"
-  #     - url: https://github.com/raviriley/agency-jekyll-theme
-  #       icon: "fab fa-github"
-  #     - url: https://instagram.com
-  #       icon: "fab fa-instagram"
 
 
 en-US:
