@@ -26,12 +26,14 @@
         {% endunless %}
         {% assign caption_title = project.caption.title_zh | default: project.caption.title %}
         {% assign caption_subtitle = project.caption.subtitle_zh | default: project.caption.subtitle %}
+        {% assign caption_description = project.subtitle_zh | default: project.subtitle %}
       {% else %}
         {% if project.language == "en" %}
           {% assign show_project = true %}
         {% endif %}
         {% assign caption_title = project.caption.title_en | default: project.caption.title %}
         {% assign caption_subtitle = project.caption.subtitle_en | default: project.caption.subtitle %}
+        {% assign caption_description = project.subtitle_en | default: project.subtitle %}
       {% endif %}
       {% if show_project %}
       <div class="col-md-4 col-sm-6 portfolio-item">
@@ -45,7 +47,10 @@
         </a>
         <div class="portfolio-caption">
           <h4>{{ caption_title }}</h4>
-          <p class="text-muted">{{ caption_subtitle }}</p>
+          <p class="text-muted portfolio-event-name">{{ caption_subtitle }}</p>
+          {% if caption_description %}
+          <p class="text-muted portfolio-event-subtitle">{{ caption_description }}</p>
+          {% endif %}
         </div>
       </div>
       {% endif %}
@@ -54,3 +59,15 @@
   </div>
 </section>
 {% include modals.html %}
+
+<style>
+  #portfolio .portfolio-item .portfolio-caption p.portfolio-event-name {
+    margin-bottom: 0.6rem;
+  }
+
+  #portfolio .portfolio-item .portfolio-caption p.portfolio-event-subtitle {
+    font-size: 0.9rem;
+    line-height: 1.55;
+    margin-bottom: 0;
+  }
+</style>
