@@ -1,4 +1,5 @@
 ---
+language: zh
 title: 命运的求索
 subtitle: 命途千万，愿你无悔一生。
 alt: 

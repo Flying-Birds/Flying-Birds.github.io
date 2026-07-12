@@ -1,4 +1,5 @@
 ---
+language: zh
 title: 一间只属于自己的房间
 subtitle: 有些人，从他冒着大雨赴约的那一刻起，就已经住进了心里。
 alt: 

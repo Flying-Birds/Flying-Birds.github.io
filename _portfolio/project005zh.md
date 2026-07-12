@@ -1,4 +1,5 @@
 ---
+language: zh
 title: 原生家庭
 subtitle: 于伤痛处寻光，于疗愈中成长。
 alt: 

@@ -1,4 +1,5 @@
 ---
+language: zh
 title: 国庆欢唱会
 subtitle: 在相遇与离别中成长。
 alt: 

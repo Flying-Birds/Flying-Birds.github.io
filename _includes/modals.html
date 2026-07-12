@@ -9,15 +9,23 @@
 {% endif %}
 
 {% for project in site.portfolio %}
+{% assign show_project = false %}
 {% if is_zh %}
+  {% unless project.language == "en" %}
+    {% assign show_project = true %}
+  {% endunless %}
   {% assign modal_title = project.title_zh | default: project.title %}
   {% assign modal_subtitle = project.subtitle_zh | default: project.subtitle %}
   {% assign modal_content = project.content_zh | default: project.content %}
 {% else %}
+  {% if project.language == "en" %}
+    {% assign show_project = true %}
+  {% endif %}
   {% assign modal_title = project.title_en | default: project.title %}
   {% assign modal_subtitle = project.subtitle_en | default: project.subtitle %}
   {% assign modal_content = project.content_en | default: project.content %}
 {% endif %}
+{% if show_project %}
 <div class="portfolio-modal modal fade" id="p{{ forloop.index }}" tabindex="-1" role="dialog" aria-hidden="true">
   <div class="modal-dialog">
     <div class="modal-content">
@@ -44,4 +52,5 @@
     </div>
   </div>
 </div>
+{% endif %}
 {% endfor %}

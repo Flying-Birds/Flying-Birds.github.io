@@ -1,4 +1,5 @@
 ---
+language: zh
 title: 亲密解忧局
 subtitle: 一路上的包容、沟通、理解、扶持，让 “我” 变成 “我们”。
 alt: 

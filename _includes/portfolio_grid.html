@@ -19,13 +19,21 @@
     </div>
     <div class="row">
       {% for project in site.portfolio %}
+      {% assign show_project = false %}
       {% if is_zh %}
+        {% unless project.language == "en" %}
+          {% assign show_project = true %}
+        {% endunless %}
         {% assign caption_title = project.caption.title_zh | default: project.caption.title %}
         {% assign caption_subtitle = project.caption.subtitle_zh | default: project.caption.subtitle %}
       {% else %}
+        {% if project.language == "en" %}
+          {% assign show_project = true %}
+        {% endif %}
         {% assign caption_title = project.caption.title_en | default: project.caption.title %}
         {% assign caption_subtitle = project.caption.subtitle_en | default: project.caption.subtitle %}
       {% endif %}
+      {% if show_project %}
       <div class="col-md-4 col-sm-6 portfolio-item">
         <a class="portfolio-link" data-toggle="modal" href="#p{{ forloop.index }}">
           <div class="portfolio-hover">
@@ -40,6 +48,7 @@
           <p class="text-muted">{{ caption_subtitle }}</p>
         </div>
       </div>
+      {% endif %}
       {% endfor %}
     </div>
   </div>

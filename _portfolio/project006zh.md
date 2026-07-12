@@ -1,4 +1,5 @@
 ---
+language: zh
 title: Lin欢迎会
 subtitle: 善良、温暖与爱意，永远是循环往复的。
 alt: 
