@@ -12,32 +12,30 @@
 en: &DEFAULT_EN
   header:
     title: Preview of the 12th Event
-    text: Cognitive Awakening
+    text: The Sedona Method Part 1 Practice
     button: Read more and join us
     buttonlink: "#intro"
 
 
   intro:
-    title: '<a href="https://book.douban.com/subject/35193035/">Cognitive Awakening</a>'
-    text: "Awaken the Inner Drive for Personal Transformation"
+    title: '<a href="https://book.douban.com/subject/35193035/">The Sedona Method</a>'
+    text: "Your Key to Lasting Happiness, Success, Peace and Emotional Well-being"
     section: intro 
-    image: "assets/img/posters/2026.07.25 认知觉醒.jpg"
-    description: "This is a personal-growth methodology with the power to stand the test of time. By exploring the principles behind the brain’s structure, the subconscious, and metacognition, you will come to see yourself clearly. By understanding how deep learning, connection, and feedback work, you will gain insight into how to truly accomplish things.<br><br>
-                  When we do not understand ourselves, we remain constrained by our primitive instincts, which often causes great pain. Once we understand how the brain works, however, we can observe and guide ourselves. We can use the power of cognition to overcome our instincts, develop lasting and clear inner motivation, and free ourselves from most of life’s suffering.<br><br>
-                  The clearer a person’s cognition, the more resolute their actions become. For this event, we have invited Cheese from China University of Political Science and Law to use this book to help us explore, one by one:<br><br>
-                  Why are we always eager for quick results and inclined to avoid difficulty?<br><br>
-                  Does patience simply mean gritting our teeth and persevering at all costs?<br><br>
-                  How can we move beyond doing things with only short-lived enthusiasm or bursts of motivation?<br><br>
-                  How can we stay intensely focused, reduce anxiety, and improve our ability to learn?"
-   
+    image: "assets/img/ref/The Sedona Method.jpg"
+    description: "For more than four and a half decades, the Sedona Method has helped hundreds of thousands of people around the world to let go of their suffering, create what they choose, and discover the truth of who they truly are. Using the Sedona Method, you access your natural ability to let go of any unwanted thought or feeling on the spot, even when you are right in the middle of life's greatest challenges. This will free you to quickly and easily have, be, or do all that you choose.<br><br>
+                  This book will help you learn this quick, easy, yet highly effective way for you to expand your sense of inner security and wellbeing - even in today's challenging and demanding environment.<br><br>
+                  Tapping into your natural ability to release will allow you to produce results far beyond what you could achieve with any other transformational tool available today. In fact, the results will often seem quite miraculous. We realize that these claims may sound extravagant; however, if you are open, you can attain an inner mastery and true happiness you never dreamed possible.<br><br>
+                  The Sedona Method is not another should or external fix. It is a powerful way for you to transform yourself and your life from the inside out, easily and permanently.<br><br>
+                  Hale Dwoskin and this powerful set of tools are featured in in Rhonda Byrne’s books The Secret and The Greatest Secret.<br><br>
+
   services:
     title: "Monthly Recommendation"
     text: "Selections for Extensive Reading"
     section: services
     list:
-      - title: "I May Be Wrong"
-        url: "https://www.amazon.com/I-May-Be-Wrong/dp/1526644843/ref=sr_1_1?crid=2G1KUIP27XACS&dib=eyJ2IjoiMSJ9.YZYH684MTRWd9XR02HwE65WNYyO1-OQrJx-_0QSs1fo_F5PzI6XXaOiHt7w3eXAKQMCAfzMozdEXFkwhLjdb7VzPLWJDQ0p_4Hx5Az6reEa0FDQSC1X13B5E21a2t84Ly1t2eJBEMYSJuUUFPcqpY7ahvZR3umDCCemtWpZtCwhLhRNBtj3GYwRmtCZZPS_vy36vXfz_WMV86PBlTMzQ81wUBi98xV_Khm6o-hYthNU.ySB-zxsNV2NIUEhlhzi_1seU5WboBKcDEE2hqjt7IRQ&dib_tag=se&keywords=I+may+be+wrong&qid=1783844163&s=books&sprefix=i+may+be+wro%2Cstripbooks%2C523&sr=1-1"
-        image: assets/img/ref/I may be wrong.jpg
+      - title: "Feeling Great: The Revolutionary New Treatment for Depression and Anxiety"
+        url: "https://www.amazon.com/Feeling-Great-Revolutionary-Treatment-Depression/dp/1962305392/ref=sr_1_2?__mk_zh_CN=%E4%BA%9A%E9%A9%AC%E9%80%8A%E7%BD%91%E7%AB%99&crid=3L17GUD4IVBFK&dib=eyJ2IjoiMSJ9.CoKvmpWCBlMKs59mPNT4XyNaSKONZjG4NxlbUzyQYdCkHXhTkU_0kneeYZLymzXnPNPdppWLDwec3bBTVB0UuMY20wUl-Vh20qd9l2bY_mesXQpmusxzoDPTfPNloRpnyUawTHbTb4x9yJoWu50frmJFbFMsTXrqmC_b6DP3uiK0FFsHXO6DlNhshIiFozQ8DnvJDBsER435213hcrvVib7kfypEZs7WF6jZBhtr8NM.V9bxvdAf9AXvYSL0fmlP-GcOkYR5xI0N-TGuuvtW4rg&dib_tag=se&keywords=david+burns&qid=1784280339&sprefix=davidburns%2Caps%2C419&sr=8-2"
+        image: assets/img/ref/Feeling Great.jpg
       - title: "The Surrender Experiment"
         url: "https://www.amazon.com/dp/B00YOJ9RV6/?bestFormat=true&k=the%20surrender%20experiment%20by%20michael%20singer&ref_=nb_sb_ss_w_scx-ent-bk-ww_k0_1_15_de&crid=35PI3NPUEHD7X&sprefix=surrender%20exper"
         image: assets/img/ref/The Surrender Experiment.jpg
@@ -184,31 +182,28 @@ en: &DEFAULT_EN
 ch: &DEFAULT_ZH
   header:
     title: 第十二期活动预告
-    text: 认知觉醒
+    text: 圣多纳释放法 Part 01 实践篇
     button: 查看更多
     buttonlink: "#intro"
 
   intro:
-    title: '<a href="https://book.douban.com/subject/35193035/">认知觉醒</a>'
-    text: "开启自我改变的原动力"
+    title: '<a href="https://book.douban.com/subject/37241957/?icn=index-latestbook-subject">圣多纳释放法 Part 01 实践篇</a>'
+    text: "持久幸福、成功、平静的秘诀"
     section: intro 
-    image: "assets/img/posters/2026.07.25 认知觉醒.jpg"
-    description: "这是一部可以穿透时间的个人成长方法论。通过“大脑构造、潜意识、元认知”等思维规律，你将真正看清自己；通过“深度学习、关联、反馈”事物规律，你将洞悉如何真正成事！<br><br>
-                  如果对自己不了解，我们就会被人的原始天性束缚，这往往会让我们感到很痛苦。然而，如果了解大脑知识，我们就可以观察并指导自己，运用认知的力量去克服天性，从而获得长久而清晰的内在动力，让我们告别绝大多数人生痛苦。<br><br>
-                  一个人的认知越清晰，行动就越坚定。本期活动我们邀请到来自中国政法大学的奶酪，通过这本书来帮我们一一拆解：<br><br>
-                  为什么我们做事总是急于求成、避难趋易？<br><br>
-                  所谓耐心，就是要“咬牙坚持、死磕到底”吗？<br><br>
-                  如何彻底告别用“三分钟热情”和“打鸡血”的方式做事？<br><br>
-                  如何保持极度专注？如何消除焦虑？如何提高学习能力？……"
+    image: "assets/img/ref/圣多纳释放法.jpg"
+    description: "圣多纳释放法是一种通过心理层面的放手动作，清理我们在事业、家庭、感情、金钱、健康等方面产生的种种情绪与压力的方法。采用自问自答的方式，让我们学会接纳不完美，帮我们放下执念，启发我们学会转化能量，唤醒我们的内在力量，最终让我们活的更加从容。<br><br>
+                  这种方法是经过哈佛大学验证的科学高效的内在成长方法。它的命题是””每个人的本质都是快乐、全知、全能而无限存在的，因为积累的习惯、情绪、妄想、压力、关系、定见等而觉察不到。”它的主要逻辑是“每个人对情绪天生就有加以释放的能力，但因长期社会性的影响而逐渐遗忘，只要透过有意识的觉察，这个能力就能立刻恢复。”<br><br>
+                  书中分为理论和应用两部分，理论深入阐述什么是释放，释放的目标、内容和原理，应用部分则通过真实故事，教大家将方法运用到生活中，解决负面情绪、不良习惯、经济压力、人际关系、情绪性疾病等难题，甚至助力带领一个有凝聚力高效的团队。<br><br>
+                  书中不仅有观念上的革新：每个人天生具有情绪释放的自然能力；也有具体的体系和方法，比如视觉感知、动觉感知、听觉感知易懂易操作；还经过了40多年的时间检验，在情绪管理领域具有专业性和权威性。<br><br>
 
   services:
     title: "每月推荐"
     text: "更多推荐阅读书目"
     section: services
     list:
-      - title: "我可能错了"
-        url: https://book.douban.com/subject/37021120/
-        image: assets/img/ref/我可能错了.jpg
+      - title: "伯恩斯新情绪疗法"
+        url: https://book.douban.com/subject/5980113/
+        image: assets/img/ref/伯恩斯新情绪疗法.jpg
       - title: "臣服实验"
         url: https://book.douban.com/subject/30384422/
         image: assets/img/ref/臣服实验.jpg
