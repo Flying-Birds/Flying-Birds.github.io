@@ -22,11 +22,12 @@ en: &DEFAULT_EN
     text: "Your Key to Lasting Happiness, Success, Peace and Emotional Well-being"
     section: intro 
     image: "assets/img/ref/The Sedona Method.jpg"
-    description: "For more than four and a half decades, the Sedona Method has helped hundreds of thousands of people around the world to let go of their suffering, create what they choose, and discover the truth of who they truly are. Using the Sedona Method, you access your natural ability to let go of any unwanted thought or feeling on the spot, even when you are right in the middle of life's greatest challenges. This will free you to quickly and easily have, be, or do all that you choose.<br><br>
-                  This book will help you learn this quick, easy, yet highly effective way for you to expand your sense of inner security and wellbeing - even in today's challenging and demanding environment.<br><br>
-                  Tapping into your natural ability to release will allow you to produce results far beyond what you could achieve with any other transformational tool available today. In fact, the results will often seem quite miraculous. We realize that these claims may sound extravagant; however, if you are open, you can attain an inner mastery and true happiness you never dreamed possible.<br><br>
-                  The Sedona Method is not another should or external fix. It is a powerful way for you to transform yourself and your life from the inside out, easily and permanently.<br><br>
-                  Hale Dwoskin and this powerful set of tools are featured in in Rhonda Byrne’s books The Secret and The Greatest Secret.<br><br>
+    description: >-
+      For more than four and a half decades, the Sedona Method has helped hundreds of thousands of people around the world to let go of their suffering, create what they choose, and discover the truth of who they truly are. Using the Sedona Method, you access your natural ability to let go of any unwanted thought or feeling on the spot, even when you are right in the middle of life's greatest challenges. This will free you to quickly and easily have, be, or do all that you choose.<br><br>
+      This book will help you learn this quick, easy, yet highly effective way for you to expand your sense of inner security and wellbeing - even in today's challenging and demanding environment.<br><br>
+      Tapping into your natural ability to release will allow you to produce results far beyond what you could achieve with any other transformational tool available today. In fact, the results will often seem quite miraculous. We realize that these claims may sound extravagant; however, if you are open, you can attain an inner mastery and true happiness you never dreamed possible.<br><br>
+      The Sedona Method is not another should or external fix. It is a powerful way for you to transform yourself and your life from the inside out, easily and permanently.<br><br>
+      Hale Dwoskin and this powerful set of tools are featured in in Rhonda Byrne’s books The Secret and The Greatest Secret.<br><br>
 
   services:
     title: "Monthly Recommendation"
@@ -191,10 +192,11 @@ ch: &DEFAULT_ZH
     text: "持久幸福、成功、平静的秘诀"
     section: intro 
     image: "assets/img/ref/圣多纳释放法.jpg"
-    description: "圣多纳释放法是一种通过心理层面的放手动作，清理我们在事业、家庭、感情、金钱、健康等方面产生的种种情绪与压力的方法。采用自问自答的方式，让我们学会接纳不完美，帮我们放下执念，启发我们学会转化能量，唤醒我们的内在力量，最终让我们活的更加从容。<br><br>
-                  这种方法是经过哈佛大学验证的科学高效的内在成长方法。它的命题是””每个人的本质都是快乐、全知、全能而无限存在的，因为积累的习惯、情绪、妄想、压力、关系、定见等而觉察不到。”它的主要逻辑是“每个人对情绪天生就有加以释放的能力，但因长期社会性的影响而逐渐遗忘，只要透过有意识的觉察，这个能力就能立刻恢复。”<br><br>
-                  书中分为理论和应用两部分，理论深入阐述什么是释放，释放的目标、内容和原理，应用部分则通过真实故事，教大家将方法运用到生活中，解决负面情绪、不良习惯、经济压力、人际关系、情绪性疾病等难题，甚至助力带领一个有凝聚力高效的团队。<br><br>
-                  书中不仅有观念上的革新：每个人天生具有情绪释放的自然能力；也有具体的体系和方法，比如视觉感知、动觉感知、听觉感知易懂易操作；还经过了40多年的时间检验，在情绪管理领域具有专业性和权威性。<br><br>
+    description: >-
+      圣多纳释放法是一种通过心理层面的放手动作，清理我们在事业、家庭、感情、金钱、健康等方面产生的种种情绪与压力的方法。采用自问自答的方式，让我们学会接纳不完美，帮我们放下执念，启发我们学会转化能量，唤醒我们的内在力量，最终让我们活的更加从容。<br><br>
+      这种方法是经过哈佛大学验证的科学高效的内在成长方法。它的命题是””每个人的本质都是快乐、全知、全能而无限存在的，因为积累的习惯、情绪、妄想、压力、关系、定见等而觉察不到。”它的主要逻辑是“每个人对情绪天生就有加以释放的能力，但因长期社会性的影响而逐渐遗忘，只要透过有意识的觉察，这个能力就能立刻恢复。”<br><br>
+      书中分为理论和应用两部分，理论深入阐述什么是释放，释放的目标、内容和原理，应用部分则通过真实故事，教大家将方法运用到生活中，解决负面情绪、不良习惯、经济压力、人际关系、情绪性疾病等难题，甚至助力带领一个有凝聚力高效的团队。<br><br>
+      书中不仅有观念上的革新：每个人天生具有情绪释放的自然能力；也有具体的体系和方法，比如视觉感知、动觉感知、听觉感知易懂易操作；还经过了40多年的时间检验，在情绪管理领域具有专业性和权威性。<br><br>
 
   services:
     title: "每月推荐"
